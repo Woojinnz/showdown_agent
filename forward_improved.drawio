@@ -1,0 +1,198 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="27.0.1">
+  <diagram name="Page-1" id="D6aG4SyfMj7Jtbk8TLxC">
+    <mxGraphModel dx="1375" dy="2695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-wT6mez18s_GnK67CDUK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-22" target="-wT6mez18s_GnK67CDUK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-22" value="Lando-Therian Active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-23" target="-wT6mez18s_GnK67CDUK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-23" value="Opponent does not&lt;div&gt;Have Rocks&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="437.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-24" value="Stealth Rock" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-27" target="-wT6mez18s_GnK67CDUK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-27" value="Arceus-Water Active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="367.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-28" target="-wT6mez18s_GnK67CDUK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-28" value="Opp Speed &amp;gt; 1.2 * my speed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="437.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-29" value="Thunder Wave" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="775" y="387.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-32" target="-wT6mez18s_GnK67CDUK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-32" value="Ho-Oh Active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="327.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-33" target="-wT6mez18s_GnK67CDUK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-33" value="Opp HP &amp;gt; 55%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="397.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-34" target="-wT6mez18s_GnK67CDUK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-34" value="Opp has no Status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="467.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-35" value="Sacred Fire" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1095" y="387.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-58" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-46" target="-wT6mez18s_GnK67CDUK-52">
+          <mxGeometry x="0.0092" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="600" />
+              <mxPoint x="955" y="600" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-59" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-46" target="-wT6mez18s_GnK67CDUK-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-46" value="Can Opponent KO me?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-47" value="Use KO Move" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-60" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-49" target="-wT6mez18s_GnK67CDUK-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-62" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-49" target="-wT6mez18s_GnK67CDUK-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-49" value="Do I hit first?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-50" value="PIVOT" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-70" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-52" target="-wT6mez18s_GnK67CDUK-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-72" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-52" target="-wT6mez18s_GnK67CDUK-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-52" value="Do I have a free turn&lt;br&gt;AND&lt;div&gt;Need to Setup Move&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-65" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-53" target="-wT6mez18s_GnK67CDUK-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-68" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-53" target="-wT6mez18s_GnK67CDUK-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-53" value="Can I KO opponent?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-69" value="Setup Move" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="895" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-71" value="Highest&amp;nbsp;&lt;div&gt;Damaging Move&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1080" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-82" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-73" target="-wT6mez18s_GnK67CDUK-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-83" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-73" target="-wT6mez18s_GnK67CDUK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-73" value="Opponent has rocks?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-76" value="Lando-Therian" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-84" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-77" target="-wT6mez18s_GnK67CDUK-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-86" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-77" target="-wT6mez18s_GnK67CDUK-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-77" value="Opp speed&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt; 1.2 * my speed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-78" value="Arceus-Water" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-87" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-79" target="-wT6mez18s_GnK67CDUK-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-89" value="&lt;b&gt;False&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-79" target="-wT6mez18s_GnK67CDUK-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-79" value="Opp not burning&lt;div&gt;&amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;Ho-Oh safe?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-80" value="Ho-Oh" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-81" value="Zacian" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-90" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-88" target="-wT6mez18s_GnK67CDUK-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-94" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-88" target="-wT6mez18s_GnK67CDUK-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-88" value="Can Zacian do more than 55% dmg?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-93" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-91" target="-wT6mez18s_GnK67CDUK-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-97" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-91" target="-wT6mez18s_GnK67CDUK-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-91" value="Can Koraidon do more than 55% dmg?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-92" value="Koraidon" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="960" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-95" value="Eternatus" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-98" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-96" target="-wT6mez18s_GnK67CDUK-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-105" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="-wT6mez18s_GnK67CDUK-96" target="-wT6mez18s_GnK67CDUK-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-96" value="Is Eternatus alive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wT6mez18s_GnK67CDUK-101" value="PK with highest HP" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1300" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
