@@ -1,0 +1,166 @@
+[12:35:57] --- Turn 1 ---
+[12:35:57] ME: arceus NORMAL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] TURN1 LEAD → switching to Landorus-T for Rocks
+[12:35:57] --- Turn 2 ---
+[12:35:57] ME: landorustherian GROUND/FLYING HP=70% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=84% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] Lando plan → set Stealth Rock
+[12:35:57] --- Turn 3 ---
+[12:35:57] ME: landorustherian GROUND/FLYING HP=44% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=67% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] Lando plan → Rock Tomb for speed control
+[12:35:57] --- Turn 4 ---
+[12:35:57] ME: landorustherian GROUND/FLYING HP=15% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=33% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] Lando plan → U-turn for momentum
+[12:35:57] --- Turn 4 ---
+[12:35:57] ME: landorustherian GROUND/FLYING HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:57] SWITCH CANDIDATES → kingambit: score=-0.25 (threat=0.50, hp=1.00, bias=-0.25) | hooh: score=-0.45 (threat=1.00, hp=1.00, bias=+0.55) | kyogre: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=0.00 (threat=0.50, hp=1.00, bias=+0.00)
+[12:35:57] → SWITCH DECISION: koraidon (score 0.00)
+[12:35:57] --- Turn 5 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:35:57] --- Turn 6 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=84% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:35:57] --- Turn 7 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=67% boosts[atk:4 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:35:57] --- Turn 8 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=48% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:35:57] --- Turn 9 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=29% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:35:57] --- Turn 10 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=29% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:35:57] --- Turn 11 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=11% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:35:57] --- Turn 12 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=11% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:35:57] --- Turn 12 ---
+[12:35:57] ME: koraidon FIGHTING/DRAGON HP=0% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:57] SWITCH CANDIDATES → kingambit: score=-0.25 (threat=0.50, hp=1.00, bias=-0.25) | hooh: score=-0.45 (threat=1.00, hp=1.00, bias=+0.55) | kyogre: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25)
+[12:35:57] → SWITCH DECISION: kingambit (score -0.25)
+[12:35:57] --- Turn 13 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:57] --- Turn 14 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=87% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:57] --- Turn 15 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=72% boosts[atk:4 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:57] --- Turn 16 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=58% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:57] --- Turn 17 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=26% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:57] --- Turn 18 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=18% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:57] --- Turn 19 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=10% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:57] --- Turn 20 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=2% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:57] --- Turn 20 ---
+[12:35:57] ME: kingambit DARK/STEEL HP=0% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:57] SWITCH CANDIDATES → hooh: score=-0.45 (threat=1.00, hp=1.00, bias=+0.55) | kyogre: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25)
+[12:35:57] → SWITCH DECISION: hooh (score -0.45)
+[12:35:57] --- Turn 21 ---
+[12:35:57] ME: hooh FIRE/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: zarudedada DARK/GRASS HP=16% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:57] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:57] --- Turn 22 ---
+[12:35:57] ME: hooh FIRE/FLYING HP=81% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: rotomwash ELECTRIC/WATER HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:57] --- Turn 23 ---
+[12:35:57] ME: hooh FIRE/FLYING HP=81% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: rotomwash ELECTRIC/WATER HP=66% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:57] --- Turn 24 ---
+[12:35:57] ME: hooh FIRE/FLYING HP=36% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: rotomwash ELECTRIC/WATER HP=45% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:57] --- Turn 25 ---
+[12:35:57] ME: hooh FIRE/FLYING HP=36% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: rotomwash ELECTRIC/WATER HP=23% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:57] --- Turn 25 ---
+[12:35:57] ME: hooh FIRE/FLYING HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: rotomwash ELECTRIC/WATER HP=23% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:57] SWITCH CANDIDATES → kyogre: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25)
+[12:35:57] → SWITCH DECISION: arceus (score -1.25)
+[12:35:57] --- Turn 26 ---
+[12:35:57] ME: arceus NORMAL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: rotomwash ELECTRIC/WATER HP=23% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] PRIORITY: ESpeed threshold=0.33, oppHP=0.23 → CLICK ESpeed
+[12:35:57] --- Turn 27 ---
+[12:35:57] ME: arceus NORMAL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: metagross STEEL/PSYCHIC HP=94% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] MOVE SCORES: shadowclaw:140.0 | extremespeed:60.0 | bulkup:-1.0 | taunt:-1.0
+[12:35:57] → PICK shadowclaw (score=140.00; bp=70.00, type_mult=2.00, stab=1.00, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:57] --- Turn 28 ---
+[12:35:57] ME: arceus NORMAL HP=56% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: metagross STEEL/PSYCHIC HP=53% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] MOVE SCORES: shadowclaw:140.0 | extremespeed:60.0 | bulkup:-1.0 | taunt:-1.0
+[12:35:57] → PICK shadowclaw (score=140.00; bp=70.00, type_mult=2.00, stab=1.00, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:57] --- Turn 29 ---
+[12:35:57] ME: arceus NORMAL HP=63% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: clodsire POISON/GROUND HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] MOVE SCORES: extremespeed:120.0 | shadowclaw:70.0 | bulkup:-1.0 | taunt:-1.0
+[12:35:57] → PICK extremespeed (score=120.00; bp=80.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:57] --- Turn 30 ---
+[12:35:57] ME: arceus NORMAL HP=50% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: clodsire POISON/GROUND HP=62% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] MOVE SCORES: extremespeed:120.0 | shadowclaw:70.0 | bulkup:-1.0 | taunt:-1.0
+[12:35:57] → PICK extremespeed (score=120.00; bp=80.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:57] --- Turn 31 ---
+[12:35:57] ME: arceus NORMAL HP=38% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: clodsire POISON/GROUND HP=20% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] PRIORITY: ESpeed threshold=0.33, oppHP=0.20 → CLICK ESpeed
+[12:35:57] --- Turn 32 ---
+[12:35:57] ME: arceus NORMAL HP=44% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: cobalion STEEL/FIGHTING HP=97% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] DANGER: incoming STAB threat=2.00 → try defensive switch
+[12:35:57] SWITCH CANDIDATES → kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00)
+[12:35:57] → SWITCH DECISION: kyogre (score -1.00)
+[12:35:57] --- Turn 33 ---
+[12:35:57] ME: kyogre WATER HP=74% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: cobalion STEEL/FIGHTING HP=97% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] ROLE: Kyogre breaker → Origin Pulse
+[12:35:57] --- Turn 34 ---
+[12:35:57] ME: kyogre WATER HP=45% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:57] OPP: tornadustherian FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:57] ROLE: Kyogre breaker → Origin Pulse

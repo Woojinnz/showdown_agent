@@ -1,0 +1,220 @@
+[12:35:55] --- Turn 1 ---
+[12:35:55] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: rotomheat ELECTRIC/FIRE HP=100% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] Lando plan → set Stealth Rock
+[12:35:55] --- Turn 2 ---
+[12:35:55] ME: landorustherian GROUND/FLYING HP=52% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: rotomheat ELECTRIC/FIRE HP=100% boosts[atk:-1 def:0 spa:-2 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] Lando plan → Rock Tomb for speed control
+[12:35:55] --- Turn 3 ---
+[12:35:55] ME: landorustherian GROUND/FLYING HP=28% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: rotomheat ELECTRIC/FIRE HP=63% boosts[atk:-1 def:0 spa:-4 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:55] Lando plan → U-turn for momentum
+[12:35:55] --- Turn 3 ---
+[12:35:55] ME: landorustherian GROUND/FLYING HP=28% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: rotomheat ELECTRIC/FIRE HP=52% boosts[atk:-1 def:0 spa:-4 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:55] SWITCH CANDIDATES → koraidon: score=0.00 (threat=0.50, hp=1.00, bias=+0.00) | kyogre: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | kingambit: score=-3.25 (threat=2.00, hp=1.00, bias=-0.25) | hooh: score=-2.45 (threat=2.00, hp=1.00, bias=+0.55)
+[12:35:55] → SWITCH DECISION: koraidon (score 0.00)
+[12:35:55] --- Turn 4 ---
+[12:35:55] ME: koraidon FIGHTING/DRAGON HP=89% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: rotomheat ELECTRIC/FIRE HP=52% boosts[atk:-1 def:0 spa:-6 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:55] MOVE SCORES: outrage:180.0 | flamecharge:37.5 | lowkick:-1.0 | swordsdance:-1.0
+[12:35:55] → PICK outrage (score=180.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:55] --- Turn 5 ---
+[12:35:55] ME: koraidon FIGHTING/DRAGON HP=89% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: jirachi STEEL/PSYCHIC HP=94% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] MOVE SCORES: outrage:90.0
+[12:35:55] → PICK outrage (score=90.00; bp=120.00, type_mult=0.50, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:55] --- Turn 6 ---
+[12:35:55] ME: koraidon FIGHTING/DRAGON HP=76% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: jirachi STEEL/PSYCHIC HP=55% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] MOVE SCORES: outrage:90.0
+[12:35:55] → PICK outrage (score=90.00; bp=120.00, type_mult=0.50, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:55] --- Turn 7 ---
+[12:35:55] ME: koraidon FIGHTING/DRAGON HP=76% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: krookodile GROUND/DARK HP=94% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] MOVE SCORES: outrage:120.0 | flamecharge:50.0 | lowkick:-1.0 | swordsdance:-1.0
+[12:35:55] → PICK outrage (score=120.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=0.67, weather=1.00, acc=1.00)
+[12:35:55] --- Turn 8 ---
+[12:35:55] ME: koraidon FIGHTING/DRAGON HP=42% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: krookodile GROUND/DARK HP=40% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] MOVE SCORES: outrage:120.0
+[12:35:55] → PICK outrage (score=120.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=0.67, weather=1.00, acc=1.00)
+[12:35:55] --- Turn 9 ---
+[12:35:55] ME: koraidon FIGHTING/DRAGON HP=42% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: zapdosgalar FIGHTING/FLYING HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] DANGER: incoming STAB threat=2.00 → try defensive switch
+[12:35:55] SWITCH CANDIDATES → landorustherian: score=-1.72 (threat=1.00, hp=0.28, bias=+0.00) | kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | arceus: score=-3.25 (threat=2.00, hp=1.00, bias=-0.25) | kingambit: score=-7.25 (threat=4.00, hp=1.00, bias=-0.25) | hooh: score=-0.45 (threat=1.00, hp=1.00, bias=+0.55)
+[12:35:55] → SWITCH DECISION: hooh (score -0.45)
+[12:35:55] --- Turn 10 ---
+[12:35:55] ME: hooh FIRE/FLYING HP=80% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: zapdosgalar FIGHTING/FLYING HP=88% boosts[atk:0 def:-1 spa:0 spd:-1 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:55] --- Turn 11 ---
+[12:35:55] ME: hooh FIRE/FLYING HP=60% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: zapdosgalar FIGHTING/FLYING HP=88% boosts[atk:0 def:-2 spa:0 spd:-2 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:55] --- Turn 12 ---
+[12:35:55] ME: hooh FIRE/FLYING HP=41% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: cyclizar DRAGON/NORMAL HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:55] --- Turn 13 ---
+[12:35:55] ME: hooh FIRE/FLYING HP=17% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: cyclizar DRAGON/NORMAL HP=44% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:55] --- Turn 14 ---
+[12:35:55] ME: hooh FIRE/FLYING HP=4% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: cyclizar DRAGON/NORMAL HP=1% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:55] --- Turn 14 ---
+[12:35:55] ME: hooh FIRE/FLYING HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: cyclizar DRAGON/NORMAL HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:55] SWITCH CANDIDATES → landorustherian: score=-1.72 (threat=1.00, hp=0.28, bias=+0.00) | kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | kingambit: score=-0.25 (threat=0.50, hp=1.00, bias=-0.25) | koraidon: score=-3.58 (threat=2.00, hp=0.42, bias=+0.00)
+[12:35:55] → SWITCH DECISION: kingambit (score -0.25)
+[12:35:55] --- Turn 15 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] MOVE SCORES: kowtowcleave:255.0 | suckerpunch:210.0 | ironhead:60.0 | swordsdance:-1.0
+[12:35:55] → PICK kowtowcleave (score=255.00; bp=85.00, type_mult=2.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:55] --- Turn 16 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 17 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 18 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:4 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 19 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 20 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 21 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 22 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 23 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 24 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 25 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 26 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 27 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 28 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 29 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 30 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 31 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 32 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=51% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 33 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=19% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:55] --- Turn 33 ---
+[12:35:55] ME: kingambit DARK/STEEL HP=0% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:55] SWITCH CANDIDATES → landorustherian: score=-3.72 (threat=2.00, hp=0.28, bias=+0.00) | kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=-3.58 (threat=2.00, hp=0.42, bias=+0.00)
+[12:35:55] → SWITCH DECISION: kyogre (score -1.00)
+[12:35:55] --- Turn 34 ---
+[12:35:55] ME: kyogre WATER HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 35 ---
+[12:35:55] ME: kyogre WATER HP=92% boosts[atk:0 def:0 spa:1 spd:1 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 36 ---
+[12:35:55] ME: kyogre WATER HP=85% boosts[atk:0 def:0 spa:2 spd:2 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 37 ---
+[12:35:55] ME: kyogre WATER HP=79% boosts[atk:0 def:0 spa:3 spd:3 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 38 ---
+[12:35:55] ME: kyogre WATER HP=68% boosts[atk:0 def:0 spa:4 spd:4 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 39 ---
+[12:35:55] ME: kyogre WATER HP=58% boosts[atk:0 def:0 spa:5 spd:5 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 40 ---
+[12:35:55] ME: kyogre WATER HP=49% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 41 ---
+[12:35:55] ME: kyogre WATER HP=41% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 42 ---
+[12:35:55] ME: kyogre WATER HP=32% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 43 ---
+[12:35:55] ME: kyogre WATER HP=24% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 44 ---
+[12:35:55] ME: kyogre WATER HP=15% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 45 ---
+[12:35:55] ME: kyogre WATER HP=7% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:55] --- Turn 45 ---
+[12:35:55] ME: kyogre WATER HP=0% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:55] SWITCH CANDIDATES → landorustherian: score=-3.72 (threat=2.00, hp=0.28, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=-3.58 (threat=2.00, hp=0.42, bias=+0.00)
+[12:35:55] → SWITCH DECISION: arceus (score -1.25)
+[12:35:55] --- Turn 46 ---
+[12:35:55] ME: arceus NORMAL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=26% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] PRIORITY: ESpeed threshold=0.33, oppHP=0.26 → CLICK ESpeed
+[12:35:55] --- Turn 47 ---
+[12:35:55] ME: arceus NORMAL HP=70% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:55] OPP: slowbro WATER/PSYCHIC HP=1% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:55] PRIORITY: ESpeed threshold=0.33, oppHP=0.01 → CLICK ESpeed

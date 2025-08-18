@@ -1,0 +1,25 @@
+[12:35:10] --- Turn 1 ---
+[12:35:10] ME: kyogre WATER HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:10] OPP: bronzong STEEL/PSYCHIC HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:10] TURN1 LEAD → switching to Landorus-T for Rocks
+[12:35:10] --- Turn 2 ---
+[12:35:10] ME: landorustherian GROUND/FLYING HP=91% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:10] OPP: bronzong STEEL/PSYCHIC HP=90% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:10] Lando plan → set Stealth Rock
+[12:35:10] --- Turn 3 ---
+[12:35:10] ME: landorustherian GROUND/FLYING HP=81% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:10] OPP: bronzong STEEL/PSYCHIC HP=80% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:10] Lando plan → Rock Tomb for speed control
+[12:35:10] --- Turn 4 ---
+[12:35:10] ME: landorustherian GROUND/FLYING HP=72% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:10] OPP: bronzong STEEL/PSYCHIC HP=63% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:10] Lando plan → U-turn for momentum
+[12:35:10] --- Turn 4 ---
+[12:35:10] ME: landorustherian GROUND/FLYING HP=72% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:10] OPP: bronzong STEEL/PSYCHIC HP=48% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:10] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:10] SWITCH CANDIDATES → kingambit: score=-0.25 (threat=0.50, hp=1.00, bias=-0.25) | koraidon: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | hooh: score=-0.45 (threat=1.00, hp=1.00, bias=+0.55) | kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25)
+[12:35:10] → SWITCH DECISION: kingambit (score -0.25)
+[12:35:10] --- Turn 5 ---
+[12:35:10] ME: kingambit DARK/STEEL HP=15% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:10] OPP: bronzong STEEL/PSYCHIC HP=54% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK

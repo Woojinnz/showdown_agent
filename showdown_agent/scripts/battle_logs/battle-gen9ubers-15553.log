@@ -1,0 +1,105 @@
+[12:37:55] --- Turn 1 ---
+[12:37:55] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: eternatus POISON/DRAGON HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] TURN1 LEAD → switching to Landorus-T for Rocks
+[12:37:55] --- Turn 2 ---
+[12:37:55] ME: landorustherian GROUND/FLYING HP=52% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: eternatus POISON/DRAGON HP=100% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] Lando plan → set Stealth Rock
+[12:37:55] --- Turn 2 ---
+[12:37:55] ME: landorustherian GROUND/FLYING HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: eternatus POISON/DRAGON HP=100% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:55] SWITCH CANDIDATES → kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | koraidon: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | hooh: score=-0.45 (threat=1.00, hp=1.00, bias=+0.55) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | kingambit: score=-0.25 (threat=0.50, hp=1.00, bias=-0.25)
+[12:37:55] → SWITCH DECISION: kingambit (score -0.25)
+[12:37:55] --- Turn 3 ---
+[12:37:55] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: eternatus POISON/DRAGON HP=100% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:37:55] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:55] --- Turn 4 ---
+[12:37:55] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: eternatus POISON/DRAGON HP=35% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] MOVE SCORES: kowtowcleave:140.2 | ironhead:132.0 | suckerpunch:115.5 | swordsdance:-1.0
+[12:37:55] → PICK kowtowcleave (score=140.25; bp=85.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:55] --- Turn 5 ---
+[12:37:55] ME: kingambit DARK/STEEL HP=15% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: koraidon FIGHTING/DRAGON HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] DANGER: incoming STAB threat=4.00 → try defensive switch
+[12:37:55] SWITCH CANDIDATES → kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | koraidon: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | hooh: score=-0.45 (threat=1.00, hp=1.00, bias=+0.55) | arceus: score=-3.25 (threat=2.00, hp=1.00, bias=-0.25)
+[12:37:55] → SWITCH DECISION: hooh (score -0.45)
+[12:37:55] --- Turn 6 ---
+[12:37:55] ME: hooh FIRE/FLYING HP=67% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: koraidon FIGHTING/DRAGON HP=91% boosts[atk:0 def:-1 spa:0 spd:-1 spe:0] | Hazards: -
+[12:37:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:37:55] --- Turn 7 ---
+[12:37:55] ME: hooh FIRE/FLYING HP=67% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: koraidon FIGHTING/DRAGON HP=47% boosts[atk:0 def:-1 spa:0 spd:-1 spe:0] | Hazards: -
+[12:37:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:37:55] --- Turn 8 ---
+[12:37:55] ME: hooh FIRE/FLYING HP=24% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: deoxysspeed PSYCHIC HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:37:55] --- Turn 9 ---
+[12:37:55] ME: hooh FIRE/FLYING HP=24% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: deoxysspeed PSYCHIC HP=13% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:37:55] --- Turn 9 ---
+[12:37:55] ME: hooh FIRE/FLYING HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: deoxysspeed PSYCHIC HP=7% boosts[atk:0 def:0 spa:-2 spd:0 spe:0] | Hazards: -
+[12:37:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:55] SWITCH CANDIDATES → kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | koraidon: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | kingambit: score=-2.10 (threat=1.00, hp=0.15, bias=-0.25) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25)
+[12:37:55] → SWITCH DECISION: kyogre (score -1.00)
+[12:37:55] --- Turn 10 ---
+[12:37:55] ME: kyogre WATER HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: deoxysspeed PSYCHIC HP=7% boosts[atk:0 def:0 spa:-2 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:37:55] --- Turn 11 ---
+[12:37:55] ME: kyogre WATER HP=84% boosts[atk:0 def:0 spa:1 spd:1 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: deoxysspeed PSYCHIC HP=1% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:37:55] --- Turn 12 ---
+[12:37:55] ME: kyogre WATER HP=84% boosts[atk:0 def:0 spa:2 spd:2 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: arceusfairy FAIRY HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] ROLE: Kyogre breaker → Origin Pulse
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: kyogre WATER HP=68% boosts[atk:0 def:0 spa:2 spd:2 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: zaciancrowned FAIRY/STEEL HP=100% boosts[atk:1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] ROLE: Kyogre breaker → Origin Pulse
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: kyogre WATER HP=0% boosts[atk:0 def:0 spa:2 spd:2 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: zaciancrowned FAIRY/STEEL HP=79% boosts[atk:1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:55] SWITCH CANDIDATES → koraidon: score=-7.00 (threat=4.00, hp=1.00, bias=+0.00) | kingambit: score=-2.10 (threat=1.00, hp=0.15, bias=-0.25) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25)
+[12:37:55] → SWITCH DECISION: arceus (score -1.25)
+[12:37:55] --- Turn 14 ---
+[12:37:55] ME: arceus NORMAL HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: zaciancrowned FAIRY/STEEL HP=79% boosts[atk:1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] MOVE SCORES: shadowclaw:70.0 | extremespeed:60.0 | bulkup:-1.0 | taunt:-1.0
+[12:37:55] → PICK shadowclaw (score=70.00; bp=70.00, type_mult=1.00, stab=1.00, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:55] --- Turn 14 ---
+[12:37:55] ME: arceus NORMAL HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: zaciancrowned FAIRY/STEEL HP=79% boosts[atk:1 def:-1 spa:0 spd:-1 spe:0] | Hazards: -
+[12:37:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:55] SWITCH CANDIDATES → koraidon: score=-7.00 (threat=4.00, hp=1.00, bias=+0.00) | kingambit: score=-2.10 (threat=1.00, hp=0.15, bias=-0.25)
+[12:37:55] → SWITCH DECISION: kingambit (score -2.10)
+[12:37:55] --- Turn 15 ---
+[12:37:55] ME: kingambit DARK/STEEL HP=3% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: zaciancrowned FAIRY/STEEL HP=79% boosts[atk:1 def:-1 spa:0 spd:-1 spe:0] | Hazards: -
+[12:37:55] MOVE SCORES: ironhead:120.0 | kowtowcleave:63.8 | suckerpunch:52.5 | swordsdance:-1.0
+[12:37:55] → PICK ironhead (score=120.00; bp=80.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:55] --- Turn 15 ---
+[12:37:55] ME: kingambit DARK/STEEL HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: zaciancrowned FAIRY/STEEL HP=79% boosts[atk:1 def:-2 spa:0 spd:-2 spe:0] | Hazards: -
+[12:37:55] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:55] SWITCH CANDIDATES → koraidon: score=-7.00 (threat=4.00, hp=1.00, bias=+0.00)
+[12:37:55] → SWITCH DECISION: koraidon (score -7.00)
+[12:37:55] --- Turn 16 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: SPIKES
+[12:37:55] OPP: zaciancrowned FAIRY/STEEL HP=79% boosts[atk:1 def:-2 spa:0 spd:-2 spe:0] | Hazards: -
+[12:37:55] MOVE SCORES: flamecharge:150.0 | outrage:0.0 | lowkick:-1.0 | swordsdance:-1.0
+[12:37:55] → PICK flamecharge (score=150.00; bp=50.00, type_mult=2.00, stab=1.00, atk_mult=1.00, weather=1.50, acc=1.00)
+[12:37:55] --- Turn 17 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=19% boosts[atk:0 def:0 spa:0 spd:0 spe:1] | Hazards: SPIKES
+[12:37:55] OPP: deoxysspeed PSYCHIC HP=1% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance

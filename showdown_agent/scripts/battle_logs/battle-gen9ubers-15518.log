@@ -1,0 +1,241 @@
+[12:35:54] --- Turn 1 ---
+[12:35:54] ME: kyogre WATER HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] TURN1 LEAD → switching to Landorus-T for Rocks
+[12:35:54] --- Turn 2 ---
+[12:35:54] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=100% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] Lando plan → set Stealth Rock
+[12:35:54] --- Turn 3 ---
+[12:35:54] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=100% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] Lando plan → Rock Tomb for speed control
+[12:35:54] --- Turn 4 ---
+[12:35:54] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=97% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:54] Lando plan → U-turn for momentum
+[12:35:54] --- Turn 4 ---
+[12:35:54] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=89% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:54] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:54] SWITCH CANDIDATES → kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | arceus: score=-3.25 (threat=2.00, hp=1.00, bias=-0.25) | koraidon: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | kingambit: score=-7.25 (threat=4.00, hp=1.00, bias=-0.25) | hooh: score=0.55 (threat=0.50, hp=1.00, bias=+0.55)
+[12:35:54] → SWITCH DECISION: hooh (score 0.55)
+[12:35:54] --- Turn 5 ---
+[12:35:54] ME: hooh FIRE/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=89% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:54] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:54] --- Turn 6 ---
+[12:35:54] ME: hooh FIRE/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=74% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:54] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:54] --- Turn 7 ---
+[12:35:54] ME: hooh FIRE/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=37% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:54] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:54] --- Turn 8 ---
+[12:35:54] ME: hooh FIRE/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: greattusk GROUND/FIGHTING HP=1% boosts[atk:-1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:54] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:54] --- Turn 9 ---
+[12:35:54] ME: hooh FIRE/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: darkrai DARK HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:54] --- Turn 10 ---
+[12:35:54] ME: hooh FIRE/FLYING HP=83% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: darkrai DARK HP=31% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:54] --- Turn 11 ---
+[12:35:54] ME: hooh FIRE/FLYING HP=63% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: ogerponwellspring GRASS/WATER HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:35:54] --- Turn 11 ---
+[12:35:54] ME: hooh FIRE/FLYING HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: ogerponwellspring GRASS/WATER HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:54] SWITCH CANDIDATES → kyogre: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=0.00 (threat=0.50, hp=1.00, bias=+0.00) | kingambit: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | landorustherian: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00)
+[12:35:54] → SWITCH DECISION: koraidon (score 0.00)
+[12:35:54] --- Turn 12 ---
+[12:35:54] ME: koraidon FIGHTING/DRAGON HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: ogerponwellspring GRASS/WATER HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] MOVE SCORES: outrage:180.0 | flamecharge:75.0 | lowkick:-1.0 | swordsdance:-1.0
+[12:35:54] → PICK outrage (score=180.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:54] --- Turn 13 ---
+[12:35:54] ME: koraidon FIGHTING/DRAGON HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: garganacl ROCK HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] MOVE SCORES: outrage:180.0
+[12:35:54] → PICK outrage (score=180.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:54] --- Turn 14 ---
+[12:35:54] ME: koraidon FIGHTING/DRAGON HP=82% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: garganacl ROCK HP=40% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] MOVE SCORES: outrage:180.0
+[12:35:54] → PICK outrage (score=180.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:54] --- Turn 15 ---
+[12:35:54] ME: koraidon FIGHTING/DRAGON HP=69% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] DANGER: incoming STAB threat=2.00 → try defensive switch
+[12:35:54] SWITCH CANDIDATES → kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | kingambit: score=-0.25 (threat=0.50, hp=1.00, bias=-0.25) | landorustherian: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00)
+[12:35:54] → SWITCH DECISION: kingambit (score -0.25)
+[12:35:54] --- Turn 16 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:35:54] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:54] --- Turn 17 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=69% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:35:54] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:35:54] --- Turn 18 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 19 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 20 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:4 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 21 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 22 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 23 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 24 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 25 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 26 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 27 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 28 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 29 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 30 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 31 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 32 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=83% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 33 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=72% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 34 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=62% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 35 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=43% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 36 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=31% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 37 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=20% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 38 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=9% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:35:54] --- Turn 38 ---
+[12:35:54] ME: kingambit DARK/STEEL HP=0% boosts[atk:6 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:54] SWITCH CANDIDATES → kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=-3.31 (threat=2.00, hp=0.69, bias=+0.00) | landorustherian: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00)
+[12:35:54] → SWITCH DECISION: kyogre (score -1.00)
+[12:35:54] --- Turn 39 ---
+[12:35:54] ME: kyogre WATER HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 40 ---
+[12:35:54] ME: kyogre WATER HP=90% boosts[atk:0 def:0 spa:1 spd:1 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 41 ---
+[12:35:54] ME: kyogre WATER HP=78% boosts[atk:0 def:0 spa:2 spd:2 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 42 ---
+[12:35:54] ME: kyogre WATER HP=67% boosts[atk:0 def:0 spa:3 spd:3 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 43 ---
+[12:35:54] ME: kyogre WATER HP=56% boosts[atk:0 def:0 spa:4 spd:4 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 44 ---
+[12:35:54] ME: kyogre WATER HP=44% boosts[atk:0 def:0 spa:5 spd:5 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 45 ---
+[12:35:54] ME: kyogre WATER HP=34% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 46 ---
+[12:35:54] ME: kyogre WATER HP=23% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 47 ---
+[12:35:54] ME: kyogre WATER HP=12% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 48 ---
+[12:35:54] ME: kyogre WATER HP=0% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] SETUP: Opp likely to switch/statused → Kyogre Calm Mind
+[12:35:54] --- Turn 48 ---
+[12:35:54] ME: kyogre WATER HP=0% boosts[atk:0 def:0 spa:6 spd:6 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:54] SWITCH CANDIDATES → arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=-3.31 (threat=2.00, hp=0.69, bias=+0.00) | landorustherian: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00)
+[12:35:54] → SWITCH DECISION: landorustherian (score -1.00)
+[12:35:54] --- Turn 49 ---
+[12:35:54] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: dragonite DRAGON/FLYING HP=11% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] Lando plan → Rock Tomb for speed control
+[12:35:54] --- Turn 50 ---
+[12:35:54] ME: landorustherian GROUND/FLYING HP=40% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: moltres FIRE/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:35:54] Lando plan → Rock Tomb for speed control
+[12:35:54] --- Turn 51 ---
+[12:35:54] ME: landorustherian GROUND/FLYING HP=6% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: moltres FIRE/FLYING HP=14% boosts[atk:0 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:54] Lando plan → U-turn for momentum
+[12:35:54] --- Turn 51 ---
+[12:35:54] ME: landorustherian GROUND/FLYING HP=6% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:35:54] OPP: moltres FIRE/FLYING HP=10% boosts[atk:0 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:35:54] FORCED SWITCH: no legal moves or force_switch=True
+[12:35:54] SWITCH CANDIDATES → arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=-3.31 (threat=2.00, hp=0.69, bias=+0.00)
+[12:35:54] → SWITCH DECISION: arceus (score -1.25)

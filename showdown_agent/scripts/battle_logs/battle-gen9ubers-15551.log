@@ -1,0 +1,2338 @@
+[12:37:54] --- Turn 1 ---
+[12:37:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: zapdosgalar FIGHTING/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] TURN1 LEAD → switching to Landorus-T for Rocks
+[12:37:54] --- Turn 2 ---
+[12:37:54] ME: landorustherian GROUND/FLYING HP=68% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: zapdosgalar FIGHTING/FLYING HP=84% boosts[atk:1 def:-1 spa:0 spd:-1 spe:0] | Hazards: -
+[12:37:54] Lando plan → set Stealth Rock
+[12:37:54] --- Turn 3 ---
+[12:37:54] ME: landorustherian GROUND/FLYING HP=34% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: zapdosgalar FIGHTING/FLYING HP=67% boosts[atk:1 def:-2 spa:0 spd:-2 spe:0] | Hazards: STEALTH_ROCK
+[12:37:54] Lando plan → Rock Tomb for speed control
+[12:37:54] --- Turn 4 ---
+[12:37:54] ME: landorustherian GROUND/FLYING HP=2% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: slowbro WATER/PSYCHIC HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:54] Lando plan → Rock Tomb for speed control
+[12:37:54] --- Turn 4 ---
+[12:37:54] ME: landorustherian GROUND/FLYING HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: slowbro WATER/PSYCHIC HP=77% boosts[atk:0 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:37:54] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:54] SWITCH CANDIDATES → hooh: score=-2.45 (threat=2.00, hp=1.00, bias=+0.55) | kingambit: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00)
+[12:37:54] → SWITCH DECISION: kyogre (score -1.00)
+[12:37:54] --- Turn 5 ---
+[12:37:54] ME: kyogre WATER HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: slowbro WATER/PSYCHIC HP=77% boosts[atk:0 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:37:54] ROLE: Kyogre breaker → Origin Pulse
+[12:37:54] --- Turn 6 ---
+[12:37:54] ME: kyogre WATER HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: slowbro WATER/PSYCHIC HP=34% boosts[atk:0 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:37:54] ROLE: Kyogre breaker → Origin Pulse
+[12:37:54] --- Turn 7 ---
+[12:37:54] ME: kyogre WATER HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: cyclizar DRAGON/NORMAL HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:54] ROLE: Kyogre breaker → Origin Pulse
+[12:37:54] --- Turn 8 ---
+[12:37:54] ME: kyogre WATER HP=54% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: cyclizar DRAGON/NORMAL HP=47% boosts[atk:0 def:0 spa:0 spd:0 spe:1] | Hazards: -
+[12:37:54] ROLE: Kyogre breaker → Origin Pulse
+[12:37:54] --- Turn 9 ---
+[12:37:54] ME: kyogre WATER HP=27% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: jirachi STEEL/PSYCHIC HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] ROLE: Kyogre breaker → Origin Pulse
+[12:37:54] --- Turn 9 ---
+[12:37:54] ME: kyogre WATER HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: jirachi STEEL/PSYCHIC HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:54] SWITCH CANDIDATES → hooh: score=-0.45 (threat=1.00, hp=1.00, bias=+0.55) | kingambit: score=-0.25 (threat=0.50, hp=1.00, bias=-0.25) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00)
+[12:37:54] → SWITCH DECISION: kingambit (score -0.25)
+[12:37:54] --- Turn 10 ---
+[12:37:54] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: jirachi STEEL/PSYCHIC HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] MOVE SCORES: kowtowcleave:255.0 | suckerpunch:210.0 | ironhead:60.0 | swordsdance:-1.0
+[12:37:54] → PICK kowtowcleave (score=255.00; bp=85.00, type_mult=2.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:54] --- Turn 11 ---
+[12:37:54] ME: kingambit DARK/STEEL HP=16% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] DANGER: incoming STAB threat=2.00 → try defensive switch
+[12:37:54] SWITCH CANDIDATES → hooh: score=-2.45 (threat=2.00, hp=1.00, bias=+0.55) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | koraidon: score=0.00 (threat=0.50, hp=1.00, bias=+0.00)
+[12:37:54] → SWITCH DECISION: koraidon (score 0.00)
+[12:37:54] --- Turn 12 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=67% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=100% boosts[atk:0 def:0 spa:-2 spd:0 spe:0] | Hazards: -
+[12:37:54] MOVE SCORES: outrage:180.0 | flamecharge:37.5 | lowkick:-1.0 | swordsdance:-1.0
+[12:37:54] → PICK outrage (score=180.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:54] --- Turn 13 ---
+[12:37:54] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:54] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:54] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 13 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: rotomheat ELECTRIC/FIRE HP=6% boosts[atk:0 def:0 spa:-4 spd:0 spe:0] | Hazards: -
+[12:37:55] SETUP: Opp likely to switch/statused → Koraidon Swords Dance
+[12:37:55] --- Turn 14 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=49% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: krookodile GROUND/DARK HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] MOVE SCORES: outrage:120.0 | flamecharge:50.0 | lowkick:-1.0 | swordsdance:-1.0
+[12:37:55] → PICK outrage (score=120.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=0.67, weather=1.00, acc=1.00)
+[12:37:55] --- Turn 15 ---
+[12:37:55] ME: koraidon FIGHTING/DRAGON HP=11% boosts[atk:-1 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] OPP: krookodile GROUND/DARK HP=43% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:55] MOVE SCORES: outrage:120.0
+[12:37:55] → PICK outrage (score=120.00; bp=120.00, type_mult=1.00, stab=1.50, atk_mult=0.67, weather=1.00, acc=1.00)

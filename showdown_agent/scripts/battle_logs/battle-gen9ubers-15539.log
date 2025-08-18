@@ -1,0 +1,93 @@
+[12:37:25] --- Turn 1 ---
+[12:37:25] ME: koraidon FIGHTING/DRAGON HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] TURN1 LEAD → switching to Landorus-T for Rocks
+[12:37:25] --- Turn 2 ---
+[12:37:25] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: eternatus POISON/DRAGON HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] Lando plan → set Stealth Rock
+[12:37:25] --- Turn 3 ---
+[12:37:25] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: zaciancrowned FAIRY/STEEL HP=100% boosts[atk:1 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] Lando plan → Rock Tomb for speed control
+[12:37:25] --- Turn 4 ---
+[12:37:25] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: zaciancrowned FAIRY/STEEL HP=92% boosts[atk:1 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:37:25] Lando plan → U-turn for momentum
+[12:37:25] --- Turn 4 ---
+[12:37:25] ME: landorustherian GROUND/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: zaciancrowned FAIRY/STEEL HP=87% boosts[atk:3 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:37:25] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:25] SWITCH CANDIDATES → koraidon: score=-7.00 (threat=4.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | hooh: score=0.55 (threat=0.50, hp=1.00, bias=+0.55) | kingambit: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25)
+[12:37:25] → SWITCH DECISION: hooh (score 0.55)
+[12:37:25] --- Turn 5 ---
+[12:37:25] ME: hooh FIRE/FLYING HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: zaciancrowned FAIRY/STEEL HP=87% boosts[atk:3 def:0 spa:0 spd:0 spe:-1] | Hazards: STEALTH_ROCK
+[12:37:25] ROLE: Ho-Oh phazes a booster → Whirlwind
+[12:37:25] --- Turn 6 ---
+[12:37:25] ME: hooh FIRE/FLYING HP=55% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: eternatus POISON/DRAGON HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] ROLE: Ho-Oh burn fishing → Sacred Fire
+[12:37:25] --- Turn 6 ---
+[12:37:25] ME: hooh FIRE/FLYING HP=0% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: eternatus POISON/DRAGON HP=88% boosts[atk:0 def:0 spa:1 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] FORCED SWITCH: no legal moves or force_switch=True
+[12:37:25] SWITCH CANDIDATES → koraidon: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | arceus: score=-1.25 (threat=1.00, hp=1.00, bias=-0.25) | kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | landorustherian: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | kingambit: score=-0.25 (threat=0.50, hp=1.00, bias=-0.25)
+[12:37:25] → SWITCH DECISION: kingambit (score -0.25)
+[12:37:25] --- Turn 7 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: eternatus POISON/DRAGON HP=88% boosts[atk:0 def:0 spa:1 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:37:25] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:25] --- Turn 8 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: eternatus POISON/DRAGON HP=76% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:37:25] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:25] --- Turn 9 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: zaciancrowned FLYING HP=14% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] PRIORITY: Sucker threshold=0.38, oppHP=0.14, likely_attack=False → CLICK Sucker
+[12:37:25] --- Turn 10 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: eternatus POISON/DRAGON HP=63% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:37:25] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=1.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:25] --- Turn 11 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: eternatus POISON/DRAGON HP=22% boosts[atk:0 def:0 spa:1 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] PRIORITY: Sucker threshold=0.38, oppHP=0.22, likely_attack=True → CLICK Sucker
+[12:37:25] --- Turn 12 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: arceusfairy FAIRY HP=88% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] MOVE SCORES: ironhead:240.0 | kowtowcleave:63.8 | suckerpunch:52.5 | swordsdance:-1.0
+[12:37:25] → PICK ironhead (score=240.00; bp=80.00, type_mult=2.00, stab=1.50, atk_mult=1.00, weather=1.00, acc=1.00)
+[12:37:25] --- Turn 13 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: arceusfairy FAIRY HP=26% boosts[atk:0 def:0 spa:1 spd:1 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] SETUP: Opp likely to switch/statused → Kingambit Swords Dance
+[12:37:25] --- Turn 14 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: kingambit DARK/STEEL HP=94% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:37:25] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=0.50, stab=1.50, atk_mult=2.00, weather=1.00, acc=1.00)
+[12:37:25] --- Turn 15 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: kingambit DARK/STEEL HP=47% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:37:25] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=0.50, stab=1.50, atk_mult=2.00, weather=1.00, acc=1.00)
+[12:37:25] --- Turn 16 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=100% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: kingambit DARK/STEEL HP=40% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] MOVE SCORES: kowtowcleave:127.5 | ironhead:120.0 | suckerpunch:105.0 | swordsdance:-1.0
+[12:37:25] → PICK kowtowcleave (score=127.50; bp=85.00, type_mult=0.50, stab=1.50, atk_mult=2.00, weather=1.00, acc=1.00)
+[12:37:25] --- Turn 17 ---
+[12:37:25] ME: kingambit DARK/STEEL HP=76% boosts[atk:2 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: koraidon FIGHTING/DRAGON HP=94% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: STEALTH_ROCK
+[12:37:25] DANGER: incoming STAB threat=4.00 → try defensive switch
+[12:37:25] SWITCH CANDIDATES → koraidon: score=-3.00 (threat=2.00, hp=1.00, bias=+0.00) | arceus: score=-3.25 (threat=2.00, hp=1.00, bias=-0.25) | kyogre: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00) | landorustherian: score=-1.00 (threat=1.00, hp=1.00, bias=+0.00)
+[12:37:25] → SWITCH DECISION: kyogre (score -1.00)
+[12:37:25] --- Turn 18 ---
+[12:37:25] ME: kyogre WATER HP=96% boosts[atk:0 def:0 spa:0 spd:0 spe:0] | Hazards: -
+[12:37:25] OPP: koraidon FIGHTING/DRAGON HP=84% boosts[atk:0 def:0 spa:0 spd:0 spe:1] | Hazards: STEALTH_ROCK
+[12:37:25] ROLE: Kyogre breaker → Origin Pulse
