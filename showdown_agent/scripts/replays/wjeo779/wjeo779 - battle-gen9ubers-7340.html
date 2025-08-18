@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>battle-gen9ubers-7340</title>
+<style>
+    html,
+    body {
+        font-family: Verdana, sans-serif;
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        padding: 12px 0;
+    }
+
+    .battle-log {
+        font-family: Verdana, sans-serif;
+        font-size: 10pt;
+    }
+
+    .battle-log-inline {
+        border: 1px solid #AAAAAA;
+        background: #EEF2F5;
+        color: black;
+        max-width: 640px;
+        margin: 0 auto 80px;
+        padding-bottom: 5px;
+    }
+
+    .battle-log .inner {
+        padding: 4px 8px 0px 8px;
+    }
+
+    .battle-log .inner-preempt {
+        padding: 0 8px 4px 8px;
+    }
+
+    .battle-log .inner-after {
+        margin-top: 0.5em;
+    }
+
+    .battle-log h2 {
+        margin: 0.5em -8px;
+        padding: 4px 8px;
+        border: 1px solid #AAAAAA;
+        background: #E0E7EA;
+        border-left: 0;
+        border-right: 0;
+        font-family: Verdana, sans-serif;
+        font-size: 13pt;
+    }
+
+    .backprop {
+        top: 0;
+    }
+
+    .battle-log .chat {
+        vertical-align: middle;
+        padding: 3px 0 3px 0;
+        font-size: 8pt;
+    }
+
+    .battle-log .chat strong {
+        color: #40576A;
+    }
+
+    .battle-log .chat em {
+        padding: 1px 4px 1px 3px;
+        color: #000000;
+        font-style: normal;
+    }
+
+    .chat.mine {
+        background: rgba(0, 0, 0, 0.05);
+        margin-left: -8px;
+        margin-right: -8px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .spoiler {
+        color: #BBBBBB;
+        background: #BBBBBB;
+        padding: 0px 3px;
+    }
+
+    .spoiler:hover,
+    .spoiler:active,
+    .spoiler-shown {
+        color: #000000;
+        background: #E2E2E2;
+        padding: 0px 3px;
+    }
+
+    .spoiler a {
+        color: #BBBBBB;
+    }
+
+    .spoiler:hover a,
+    .spoiler:active a,
+    .spoiler-shown a {
+        color: #2288CC;
+    }
+
+    .chat code,
+    .chat .spoiler:hover code,
+    .chat .spoiler:active code,
+    .chat .spoiler-shown code {
+        border: 1px solid #C0C0C0;
+        background: #EEEEEE;
+        color: black;
+        padding: 0 2px;
+    }
+
+    .chat .spoiler code {
+        border: 1px solid #CCCCCC;
+        background: #CCCCCC;
+        color: #CCCCCC;
+    }
+
+    .battle-log .rated {
+        padding: 3px 4px;
+    }
+
+    .battle-log .rated strong {
+        color: white;
+        background: #89A;
+        padding: 1px 4px;
+        border-radius: 4px;
+    }
+
+    .spacer {
+        margin-top: 0.5em;
+    }
+
+    .message-announce {
+        background: #6688AA;
+        color: white;
+        padding: 1px 4px 2px;
+    }
+
+    .message-announce a,
+    .broadcast-green a,
+    .broadcast-blue a,
+    .broadcast-red a {
+        color: #DDEEFF;
+    }
+
+    .broadcast-green {
+        background-color: #559955;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .broadcast-blue {
+        background-color: #6688AA;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .infobox {
+        border: 1px solid #6688AA;
+        padding: 2px 4px;
+    }
+
+    .infobox-limited {
+        max-height: 200px;
+        overflow: auto;
+        overflow-x: hidden;
+    }
+
+    .broadcast-red {
+        background-color: #AA5544;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .message-learn-canlearn {
+        font-weight: bold;
+        color: #228822;
+        text-decoration: underline;
+    }
+
+    .message-learn-cannotlearn {
+        font-weight: bold;
+        color: #CC2222;
+        text-decoration: underline;
+    }
+
+    .message-effect-weak {
+        font-weight: bold;
+        color: #CC2222;
+    }
+
+    .message-effect-resist {
+        font-weight: bold;
+        color: #6688AA;
+    }
+
+    .message-effect-immune {
+        font-weight: bold;
+        color: #666666;
+    }
+
+    .message-learn-list {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .message-throttle-notice,
+    .message-error {
+        color: #992222;
+    }
+
+    .message-overflow,
+    .chat small.message-overflow {
+        font-size: 0pt;
+    }
+
+    .message-overflow::before {
+        font-size: 9pt;
+        content: '...';
+    }
+
+    .subtle {
+        color: #3A4A66;
+    }
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+    <input type="hidden" name="replayid" value="unregisteredserver-gen8randombattle-320064" />
+    <div class="battle"></div>
+    <div class="battle-log"></div>
+    <div class="replay-controls"></div>
+    <div class="replay-controls-2"></div>
+    <h1 style="font-weight:normal;text-align:center"><strong>poke-env battle replay</strong><br />battle-gen9ubers-7340<br /><a
+            href="http://pokemonshowdown.com/users/randomplayer1" class="subtle" target="_blank">wjeo779</a>
+        vs. <a href="http://pokemonshowdown.com/users/randomplayer2" class="subtle"
+            target="_blank">random-uu</a></h1>
+    <script type="text/plain" class="battle-log-data">
+    >battle-gen9ubers-7340|init|battle
+|title|wjeo779 vs. random-uu
+|j|☆wjeo779
+|j|☆random-uu
+|gametype|singles
+|player|p1|wjeo779|266|
+|player|p2|random-uu|102|
+|gen|9
+|tier|[Gen 9] Ubers
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ho-Oh|
+|poke|p1|Kyogre|
+|poke|p1|Koraidon|
+|poke|p1|Arceus|
+|poke|p1|Kingambit, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Clodsire, M|
+|poke|p2|Metagross|
+|poke|p2|Rotom-Wash|
+|poke|p2|Cobalion|
+|poke|p2|Zarude-Dada|
+|teampreview
+|
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Arceus|Arceus|443/443
+|switch|p2a: Metagross|Metagross|100/100
+|turn|1
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|switch|p2a: Zarude|Zarude-Dada|100/100
+|
+|upkeep
+|turn|2
+|
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|379/379
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Rotom|atk|1
+|
+|upkeep
+|turn|3
+|
+|-terastallize|p2a: Rotom|Steel
+|-terastallize|p1a: Landorus|Water
+|move|p2a: Rotom|Hydro Pump|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|299/379
+|move|p1a: Landorus|Earthquake|p2a: Rotom
+|-immune|p2a: Rotom|[from] ability: Levitate
+|
+|upkeep
+|turn|4
+|
+|switch|p2a: Metagross|Metagross|100/100
+|switch|p1a: Kyogre|Kyogre|401/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|switch|p1a: Kingambit|Kingambit, F|403/403
+|-item|p1a: Kingambit|Air Balloon
+|move|p2a: Metagross|Psychic Fangs|p1a: Kingambit
+|-immune|p1a: Kingambit
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|switch|p2a: Zarude|Zarude-Dada|100/100
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Arceus|Arceus|443/443
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|switch|p2a: Metagross|Metagross|100/100
+|switch|p1a: Kyogre|Kyogre|401/401
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|move|p2a: Metagross|Heavy Slam|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|351/401
+|move|p1a: Kyogre|Thunder|p2a: Metagross
+|-damage|p2a: Metagross|52/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|switch|p2a: Zarude|Zarude-Dada|100/100
+|switch|p1a: Koraidon|Koraidon|341/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|switch|p1a: Kingambit|Kingambit, F|403/403
+|-item|p1a: Kingambit|Air Balloon
+|switch|p2a: Rotom|Rotom-Wash, tera:Steel|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Koraidon|Koraidon|341/341
+|-activate|p1a: Koraidon|ability: Orichalcum Pulse
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|switch|p1a: Kyogre|Kyogre|351/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Tornadus|Hurricane|p1a: Kyogre
+|-damage|p1a: Kyogre|243/401
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|switch|p2a: Metagross|Metagross|52/100
+|switch|p1a: Kingambit|Kingambit, F|403/403
+|-item|p1a: Kingambit|Air Balloon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Kingambit|Iron Head|p2a: Tornadus
+|-crit|p2a: Tornadus
+|-damage|p2a: Tornadus|13/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|move|p2a: Tornadus|Focus Blast|p1a: Kingambit|[miss]
+|-miss|p2a: Tornadus|p1a: Kingambit
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|move|p2a: Tornadus|U-turn|p1a: Kingambit
+|-damage|p1a: Kingambit|362/403
+|-enditem|p1a: Kingambit|Air Balloon
+|
+|switch|p2a: Rotom|Rotom-Wash, tera:Steel|100/100|[from] U-turn
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-weather|none
+|upkeep
+|
+|switch|p2a: Cobalion|Cobalion|100/100
+|turn|17
+|
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Arceus|Arceus|443/443
+|move|p2a: Cobalion|Body Press|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|227/443
+|
+|-heal|p1a: Arceus|254/443|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|switch|p2a: Tornadus|Tornadus-Therian, M|46/100
+|move|p1a: Arceus|Extreme Speed|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|-heal|p1a: Arceus|281/443|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: Cobalion|Cobalion|100/100
+|turn|19
+|
+|switch|p1a: Koraidon|Koraidon|341/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Cobalion|Stealth Rock|p1a: Koraidon
+|-sidestart|p1: wjeo779|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|switch|p2a: Metagross|Metagross|52/100
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|switch|p2a: Cobalion|Cobalion|100/100
+|move|p1a: Koraidon|Low Kick|p2a: Cobalion
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|0 fnt
+|-damage|p1a: Koraidon|285/341|[from] item: Rocky Helmet|[of] p2a: Cobalion
+|faint|p2a: Cobalion
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|turn|22
+|
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|move|p2a: Clodsire|Spikes|p1a: Koraidon
+|-sidestart|p1: wjeo779|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|23
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|move|p2a: Clodsire|Recover||[still]
+|-fail|p2a: Clodsire|heal
+|
+|-weather|none
+|upkeep
+|turn|24
+|
+|switch|p1a: Koraidon|Koraidon|285/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|switch|p2a: Metagross|Metagross|52/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|25
+|
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|move|p2a: Metagross|Psychic Fangs|p1a: Koraidon
+|-supereffective|p1a: Koraidon
+|-damage|p1a: Koraidon|0 fnt
+|faint|p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p1a: Kyogre|Kyogre|243/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|26
+|
+|switch|p2a: Zarude|Zarude-Dada|100/100
+|move|p1a: Kyogre|Ice Beam|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-damage|p2a: Zarude|35/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|27
+|
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|switch|p1a: Arceus|Arceus|281/443
+|-damage|p1a: Arceus|226/443|[from] Stealth Rock
+|-damage|p1a: Arceus|171/443|[from] Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Arceus|198/443|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|switch|p1a: Kingambit|Kingambit, F|362/403
+|-damage|p1a: Kingambit|337/403|[from] Stealth Rock
+|-damage|p1a: Kingambit|287/403|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|switch|p2a: Metagross|Metagross|52/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|29
+|
+|-end|p1a: Kingambit|fallen1|[silent]
+|switch|p1a: Arceus|Arceus|198/443
+|-damage|p1a: Arceus|143/443|[from] Stealth Rock
+|-damage|p1a: Arceus|88/443|[from] Spikes
+|move|p2a: Metagross|Psychic Fangs|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|switch|p1a: Landorus|Landorus-Therian, M, tera:Water|299/379
+|-damage|p1a: Landorus|252/379|[from] Stealth Rock
+|-damage|p1a: Landorus|205/379|[from] Spikes
+|-ability|p1a: Landorus|Intimidate|boost
+|-fail|p2a: Metagross|unboost|[from] ability: Clear Body|[of] p2a: Metagross
+|turn|30
+|
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|move|p1a: Landorus|U-turn|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|91/100
+|
+|switch|p1a: Kyogre|Kyogre|243/401|[from] U-turn
+|
+|-weather|none
+|upkeep
+|turn|31
+|
+|switch|p2a: Metagross|Metagross|52/100
+|move|p1a: Kyogre|Origin Pulse|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|upkeep
+|
+|switch|p2a: Zarude|Zarude-Dada|35/100
+|turn|32
+|
+|switch|p1a: Landorus|Landorus-Therian, M, tera:Water|205/379
+|-damage|p1a: Landorus|158/379|[from] Stealth Rock
+|-damage|p1a: Landorus|111/379|[from] Spikes
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zarude|atk|1
+|move|p2a: Zarude|Swords Dance|p2a: Zarude
+|-boost|p2a: Zarude|atk|2
+|
+|upkeep
+|turn|33
+|
+|move|p2a: Zarude|Swords Dance|p2a: Zarude
+|-boost|p2a: Zarude|atk|2
+|move|p1a: Landorus|Stealth Rock|p2a: Zarude
+|-sidestart|p2: random-uu|move: Stealth Rock
+|
+|upkeep
+|turn|34
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|move|p2a: Zarude|Swords Dance|p2a: Zarude
+|-boost|p2a: Zarude|atk|2
+|
+|upkeep
+|turn|35
+|
+|move|p2a: Zarude|Swords Dance|p2a: Zarude
+|-boost|p2a: Zarude|atk|1
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|faint|p2a: Zarude
+|
+|upkeep
+|
+|switch|p2a: Clodsire|Clodsire, M|91/100
+|turn|36
+|
+|switch|p1a: Landorus|Landorus-Therian, M, tera:Water|111/379
+|-damage|p1a: Landorus|64/379|[from] Stealth Rock
+|-damage|p1a: Landorus|17/379|[from] Spikes
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clodsire|atk|1
+|move|p2a: Clodsire|Earthquake|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|turn|37
+|
+|switch|p1a: Kingambit|Kingambit, F|287/403
+|-damage|p1a: Kingambit|262/403|[from] Stealth Rock
+|-damage|p1a: Kingambit|212/403|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|move|p2a: Clodsire|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|98/403
+|
+|upkeep
+|turn|38
+|
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Clodsire|Spikes|p1a: Kingambit
+|-sidestart|p1: wjeo779|Spikes
+|
+|upkeep
+|turn|39
+|
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100
+|
+|upkeep
+|turn|40
+|
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Clodsire|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|
+|switch|p1a: Kyogre|Kyogre|243/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|41
+|
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|move|p2a: Clodsire|Spikes|p1a: Kyogre
+|-sidestart|p1: wjeo779|Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|42
+|
+|move|p1a: Kyogre|Thunder|p2a: Clodsire
+|-immune|p2a: Clodsire
+|move|p2a: Clodsire|Poison Jab|p1a: Kyogre
+|-damage|p1a: Kyogre|203/401
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|43
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|move|p2a: Clodsire|Recover||[still]
+|-fail|p2a: Clodsire|heal
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|44
+|
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Clodsire
+|-damage|p2a: Clodsire|79/100
+|-status|p2a: Clodsire|brn
+|move|p2a: Clodsire|Poison Jab|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|395/413
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Clodsire|73/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|switch|p1a: Kyogre|Kyogre|203/401
+|move|p2a: Clodsire|Poison Jab|p1a: Kyogre
+|-damage|p1a: Kyogre|184/401
+|
+|-weather|none
+|-damage|p2a: Clodsire|67/100 brn|[from] brn
+|upkeep
+|turn|46
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Clodsire
+|-heal|p2a: Clodsire|92/100 brn|[from] ability: Water Absorb|[of] p1a: Kyogre
+|move|p2a: Clodsire|Poison Jab|p1a: Kyogre
+|-damage|p1a: Kyogre|165/401
+|
+|-damage|p2a: Clodsire|86/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|move|p1a: Kyogre|Thunder|p2a: Clodsire
+|-immune|p2a: Clodsire
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100 brn
+|
+|-damage|p2a: Clodsire|94/100 brn|[from] brn
+|upkeep
+|turn|48
+|
+|move|p1a: Kyogre|Ice Beam|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|56/100 brn
+|move|p2a: Clodsire|Poison Jab|p1a: Kyogre
+|-damage|p1a: Kyogre|145/401
+|
+|-damage|p2a: Clodsire|50/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Clodsire
+|-heal|p2a: Clodsire|75/100 brn|[from] ability: Water Absorb|[of] p1a: Kyogre
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100 brn
+|
+|-damage|p2a: Clodsire|94/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100 brn|[from] ability: Water Absorb|[of] p1a: Kyogre
+|move|p2a: Clodsire|Earthquake|p1a: Kyogre
+|-damage|p1a: Kyogre|119/401
+|
+|-damage|p2a: Clodsire|94/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|move|p1a: Kyogre|Thunder|p2a: Clodsire
+|-immune|p2a: Clodsire
+|move|p2a: Clodsire|Spikes||[still]
+|-fail|p2a: Clodsire
+|
+|-damage|p2a: Clodsire|88/100 brn|[from] brn
+|upkeep
+|turn|52
+|
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100 brn
+|
+|-damage|p2a: Clodsire|94/100 brn|[from] brn
+|upkeep
+|turn|53
+|
+|move|p1a: Kyogre|Thunder|p2a: Clodsire
+|-immune|p2a: Clodsire
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100 brn
+|
+|-damage|p2a: Clodsire|94/100 brn|[from] brn
+|upkeep
+|turn|54
+|
+|move|p1a: Kyogre|Ice Beam|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-crit|p2a: Clodsire
+|-damage|p2a: Clodsire|16/100 brn
+|move|p2a: Clodsire|Earthquake|p1a: Kyogre
+|-damage|p1a: Kyogre|95/401
+|
+|-damage|p2a: Clodsire|10/100 brn|[from] brn
+|upkeep
+|turn|55
+|
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|move|p2a: Clodsire|Recover|p2a: Clodsire
+|-heal|p2a: Clodsire|60/100 brn
+|
+|-damage|p2a: Clodsire|54/100 brn|[from] brn
+|upkeep
+|turn|56
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Clodsire
+|-heal|p2a: Clodsire|79/100 brn|[from] ability: Water Absorb|[of] p1a: Kyogre
+|move|p2a: Clodsire|Poison Jab|p1a: Kyogre
+|-damage|p1a: Kyogre|75/401
+|
+|-damage|p2a: Clodsire|73/100 brn|[from] brn
+|upkeep
+|turn|57
+|
+|move|p1a: Kyogre|Thunder|p2a: Clodsire
+|-immune|p2a: Clodsire
+|move|p2a: Clodsire|Spikes||[still]
+|-fail|p2a: Clodsire
+|
+|-damage|p2a: Clodsire|67/100 brn|[from] brn
+|upkeep
+|turn|58
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Clodsire
+|-heal|p2a: Clodsire|91/100 brn|[from] ability: Water Absorb|[of] p1a: Kyogre
+|move|p2a: Clodsire|Spikes||[still]
+|-fail|p2a: Clodsire
+|
+|-damage|p2a: Clodsire|85/100 brn|[from] brn
+|upkeep
+|turn|59
+|
+|move|p1a: Kyogre|Origin Pulse|p2a: Clodsire
+|-heal|p2a: Clodsire|100/100 brn|[from] ability: Water Absorb|[of] p1a: Kyogre
+|move|p2a: Clodsire|Spikes||[still]
+|-fail|p2a: Clodsire
+|
+|-damage|p2a: Clodsire|94/100 brn|[from] brn
+|upkeep
+|turn|60
+|
+|move|p1a: Kyogre|Ice Beam|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|23/100 brn
+|move|p2a: Clodsire|Spikes||[still]
+|-fail|p2a: Clodsire
+|
+|-damage|p2a: Clodsire|17/100 brn|[from] brn
+|upkeep
+|turn|61
+|
+|move|p1a: Kyogre|Ice Beam|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|
+    </script>
+</div>
+
+<div class="battle-log battle-log-inline" style="display:none"></div>
+
+<script>
+    let daily = Math.floor(Date.now() / 1000 / 60 / 60 / 24); document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version' + daily + '"></' + 'script>');
+</script>
+
+<p style="text-align:center"> Replay created by <a href="https://github.com/hsahovic/poke-env">poke-env</a>, with code from <a
+        href="https://github.com/smogon/pokemon-showdown"> pokemon-showdown</a>. If something goes wrong, don't hesitate
+    to open an <a href="https://github.com/hsahovic/poke-env/issues">issue!</a></p>

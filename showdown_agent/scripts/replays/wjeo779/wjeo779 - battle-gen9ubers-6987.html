@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>battle-gen9ubers-6987</title>
+<style>
+    html,
+    body {
+        font-family: Verdana, sans-serif;
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        padding: 12px 0;
+    }
+
+    .battle-log {
+        font-family: Verdana, sans-serif;
+        font-size: 10pt;
+    }
+
+    .battle-log-inline {
+        border: 1px solid #AAAAAA;
+        background: #EEF2F5;
+        color: black;
+        max-width: 640px;
+        margin: 0 auto 80px;
+        padding-bottom: 5px;
+    }
+
+    .battle-log .inner {
+        padding: 4px 8px 0px 8px;
+    }
+
+    .battle-log .inner-preempt {
+        padding: 0 8px 4px 8px;
+    }
+
+    .battle-log .inner-after {
+        margin-top: 0.5em;
+    }
+
+    .battle-log h2 {
+        margin: 0.5em -8px;
+        padding: 4px 8px;
+        border: 1px solid #AAAAAA;
+        background: #E0E7EA;
+        border-left: 0;
+        border-right: 0;
+        font-family: Verdana, sans-serif;
+        font-size: 13pt;
+    }
+
+    .backprop {
+        top: 0;
+    }
+
+    .battle-log .chat {
+        vertical-align: middle;
+        padding: 3px 0 3px 0;
+        font-size: 8pt;
+    }
+
+    .battle-log .chat strong {
+        color: #40576A;
+    }
+
+    .battle-log .chat em {
+        padding: 1px 4px 1px 3px;
+        color: #000000;
+        font-style: normal;
+    }
+
+    .chat.mine {
+        background: rgba(0, 0, 0, 0.05);
+        margin-left: -8px;
+        margin-right: -8px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .spoiler {
+        color: #BBBBBB;
+        background: #BBBBBB;
+        padding: 0px 3px;
+    }
+
+    .spoiler:hover,
+    .spoiler:active,
+    .spoiler-shown {
+        color: #000000;
+        background: #E2E2E2;
+        padding: 0px 3px;
+    }
+
+    .spoiler a {
+        color: #BBBBBB;
+    }
+
+    .spoiler:hover a,
+    .spoiler:active a,
+    .spoiler-shown a {
+        color: #2288CC;
+    }
+
+    .chat code,
+    .chat .spoiler:hover code,
+    .chat .spoiler:active code,
+    .chat .spoiler-shown code {
+        border: 1px solid #C0C0C0;
+        background: #EEEEEE;
+        color: black;
+        padding: 0 2px;
+    }
+
+    .chat .spoiler code {
+        border: 1px solid #CCCCCC;
+        background: #CCCCCC;
+        color: #CCCCCC;
+    }
+
+    .battle-log .rated {
+        padding: 3px 4px;
+    }
+
+    .battle-log .rated strong {
+        color: white;
+        background: #89A;
+        padding: 1px 4px;
+        border-radius: 4px;
+    }
+
+    .spacer {
+        margin-top: 0.5em;
+    }
+
+    .message-announce {
+        background: #6688AA;
+        color: white;
+        padding: 1px 4px 2px;
+    }
+
+    .message-announce a,
+    .broadcast-green a,
+    .broadcast-blue a,
+    .broadcast-red a {
+        color: #DDEEFF;
+    }
+
+    .broadcast-green {
+        background-color: #559955;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .broadcast-blue {
+        background-color: #6688AA;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .infobox {
+        border: 1px solid #6688AA;
+        padding: 2px 4px;
+    }
+
+    .infobox-limited {
+        max-height: 200px;
+        overflow: auto;
+        overflow-x: hidden;
+    }
+
+    .broadcast-red {
+        background-color: #AA5544;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .message-learn-canlearn {
+        font-weight: bold;
+        color: #228822;
+        text-decoration: underline;
+    }
+
+    .message-learn-cannotlearn {
+        font-weight: bold;
+        color: #CC2222;
+        text-decoration: underline;
+    }
+
+    .message-effect-weak {
+        font-weight: bold;
+        color: #CC2222;
+    }
+
+    .message-effect-resist {
+        font-weight: bold;
+        color: #6688AA;
+    }
+
+    .message-effect-immune {
+        font-weight: bold;
+        color: #666666;
+    }
+
+    .message-learn-list {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .message-throttle-notice,
+    .message-error {
+        color: #992222;
+    }
+
+    .message-overflow,
+    .chat small.message-overflow {
+        font-size: 0pt;
+    }
+
+    .message-overflow::before {
+        font-size: 9pt;
+        content: '...';
+    }
+
+    .subtle {
+        color: #3A4A66;
+    }
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+    <input type="hidden" name="replayid" value="unregisteredserver-gen8randombattle-320064" />
+    <div class="battle"></div>
+    <div class="battle-log"></div>
+    <div class="replay-controls"></div>
+    <div class="replay-controls-2"></div>
+    <h1 style="font-weight:normal;text-align:center"><strong>poke-env battle replay</strong><br />battle-gen9ubers-6987<br /><a
+            href="http://pokemonshowdown.com/users/randomplayer1" class="subtle" target="_blank">wjeo779</a>
+        vs. <a href="http://pokemonshowdown.com/users/randomplayer2" class="subtle"
+            target="_blank">random-ou</a></h1>
+    <script type="text/plain" class="battle-log-data">
+    >battle-gen9ubers-6987|init|battle
+|title|wjeo779 vs. random-ou
+|j|☆wjeo779
+|j|☆random-ou
+|gametype|singles
+|player|p1|wjeo779|266|
+|player|p2|random-ou|2|
+|gen|9
+|tier|[Gen 9] Ubers
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ho-Oh|
+|poke|p1|Kyogre|
+|poke|p1|Koraidon|
+|poke|p1|Arceus|
+|poke|p1|Kingambit, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Great Tusk|
+|poke|p2|Dragonite, F|
+|poke|p2|Moltres|
+|poke|p2|Darkrai|
+|teampreview
+|
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|379/379
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|turn|1
+|
+|-terastallize|p2a: Dragonite|Normal
+|move|p2a: Dragonite|Extreme Speed|p1a: Landorus
+|-damage|p1a: Landorus|291/379
+|-damage|p2a: Dragonite|84/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|move|p1a: Landorus|U-turn|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|48/100
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|291/379
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ogerpon|atk|1
+|
+|upkeep
+|turn|3
+|
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Landorus|U-turn|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|97/100
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413|[from] U-turn
+|
+|upkeep
+|turn|4
+|
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Ho-Oh|Recover||[still]
+|-fail|p1a: Ho-Oh|heal
+|
+|upkeep
+|turn|5
+|
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|switch|p1a: Kyogre|Kyogre|401/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|switch|p1a: Kingambit|Kingambit, F|403/403
+|-item|p1a: Kingambit|Air Balloon
+|move|p2a: Great Tusk|Ice Spinner|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|360/403
+|-enditem|p1a: Kingambit|Air Balloon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|move|p2a: Ogerpon|Knock Off|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|313/413
+|-enditem|p1a: Ho-Oh|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Ogerpon
+|-damage|p2a: Ogerpon|75/100
+|-status|p2a: Ogerpon|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Ogerpon|69/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|switch|p2a: Moltres|Moltres|97/100
+|switch|p1a: Koraidon|Koraidon|341/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|switch|p1a: Kyogre|Kyogre|401/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Kyogre|Thunder|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|move|p2a: Garganacl|Stealth Rock|p1a: Ho-Oh
+|-sidestart|p1: wjeo779|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|switch|p1a: Kyogre|Kyogre|401/401
+|switch|p2a: Moltres|Moltres|97/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|switch|p1a: Landorus|Landorus-Therian, M|291/379
+|-damage|p1a: Landorus|244/379|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Moltres|atk|1
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|69/100 brn
+|
+|-weather|none
+|-damage|p2a: Ogerpon|63/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|switch|p1a: Kingambit|Kingambit, F|360/403
+|-damage|p1a: Kingambit|335/403|[from] Stealth Rock
+|move|p2a: Ogerpon|U-turn|p1a: Kingambit
+|-damage|p1a: Kingambit|297/403
+|
+|switch|p2a: Moltres|Moltres|97/100|[from] U-turn
+|
+|upkeep
+|turn|16
+|
+|move|p2a: Moltres|Brave Bird|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|228/403
+|-damage|p2a: Moltres|91/100|[from] Recoil
+|move|p1a: Kingambit|Iron Head|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|73/100
+|-status|p1a: Kingambit|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|
+|-damage|p1a: Kingambit|203/403 brn|[from] brn
+|upkeep
+|turn|17
+|
+|switch|p2a: Dragonite|Dragonite, F, tera:Normal|48/100
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|-damage|p1a: Ho-Oh|207/413|[from] Stealth Rock
+|
+|upkeep
+|turn|18
+|
+|switch|p2a: Moltres|Moltres|73/100
+|-terastallize|p1a: Ho-Oh|Fairy
+|move|p1a: Ho-Oh|Recover|p1a: Ho-Oh
+|-heal|p1a: Ho-Oh|413/413
+|
+|upkeep
+|turn|19
+|
+|switch|p1a: Kingambit|Kingambit, F|203/403 brn
+|-damage|p1a: Kingambit|178/403 brn|[from] Stealth Rock
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|100/100
+|-singleturn|p2a: Moltres|move: Roost
+|
+|-damage|p1a: Kingambit|153/403 brn|[from] brn
+|upkeep
+|turn|20
+|
+|switch|p2a: Darkrai|Darkrai|100/100
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|
+|-damage|p1a: Kingambit|128/403 brn|[from] brn
+|upkeep
+|turn|21
+|
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|63/100 brn
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Ogerpon
+|-damage|p2a: Ogerpon|2/100 brn
+|
+|-damage|p2a: Ogerpon|0 fnt|[from] brn
+|faint|p2a: Ogerpon
+|-damage|p1a: Kingambit|103/403 brn|[from] brn
+|upkeep
+|
+|switch|p2a: Moltres|Moltres|100/100
+|turn|22
+|
+|switch|p2a: Dragonite|Dragonite, F, tera:Normal|48/100
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Landorus|Landorus-Therian, M|244/379
+|-damage|p1a: Landorus|197/379|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|
+|upkeep
+|turn|23
+|
+|switch|p2a: Garganacl|Garganacl, F|100/100
+|move|p1a: Landorus|Earthquake|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|35/100
+|
+|-heal|p2a: Garganacl|41/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|switch|p1a: Arceus|Arceus|443/443
+|-damage|p1a: Arceus|388/443|[from] Stealth Rock
+|switch|p2a: Moltres|Moltres|100/100
+|
+|-heal|p1a: Arceus|415/443|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|switch|p1a: Kingambit|Kingambit, F|103/403 brn
+|-damage|p1a: Kingambit|78/403 brn|[from] Stealth Rock
+|switch|p2a: Garganacl|Garganacl, F|41/100
+|
+|-heal|p2a: Garganacl|48/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|53/403 brn|[from] brn
+|upkeep
+|turn|26
+|
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Landorus|Landorus-Therian, M|197/379
+|-damage|p1a: Landorus|150/379|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garganacl|atk|1
+|switch|p2a: Dragonite|Dragonite, F, tera:Normal|48/100
+|
+|upkeep
+|turn|27
+|
+|switch|p2a: Darkrai|Darkrai|100/100
+|switch|p1a: Arceus|Arceus|415/443
+|-damage|p1a: Arceus|360/443|[from] Stealth Rock
+|
+|-heal|p1a: Arceus|387/443|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|move|p2a: Darkrai|Ice Beam|p1a: Arceus
+|-damage|p1a: Arceus|286/443
+|move|p1a: Arceus|Shadow Claw|p2a: Darkrai
+|-resisted|p2a: Darkrai
+|-damage|p2a: Darkrai|84/100
+|
+|-heal|p1a: Arceus|313/443|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|move|p2a: Darkrai|Ice Beam|p1a: Arceus
+|-damage|p1a: Arceus|224/443
+|move|p1a: Arceus|Bulk Up|p1a: Arceus
+|-boost|p1a: Arceus|atk|1
+|-boost|p1a: Arceus|def|1
+|
+|-heal|p1a: Arceus|251/443|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|switch|p2a: Garganacl|Garganacl, F|48/100
+|switch|p1a: Kyogre|Kyogre|401/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garganacl|54/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|switch|p1a: Landorus|Landorus-Therian, M|150/379
+|-damage|p1a: Landorus|103/379|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garganacl|atk|1
+|switch|p2a: Moltres|Moltres|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|32
+|
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Landorus|Earthquake|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|53/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|33
+|
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Landorus|Earthquake|p2a: Moltres
+|-immune|p2a: Moltres
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|34
+|
+|switch|p1a: Kyogre|Kyogre|401/401
+|move|p2a: Moltres|Flamethrower|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|380/401
+|
+|-weather|none
+|upkeep
+|turn|35
+|
+|switch|p1a: Arceus|Arceus|251/443
+|-damage|p1a: Arceus|196/443|[from] Stealth Rock
+|switch|p2a: Darkrai|Darkrai|84/100
+|
+|-heal|p1a: Arceus|223/443|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|switch|p2a: Garganacl|Garganacl, F|54/100
+|switch|p1a: Ho-Oh|Ho-Oh, tera:Fairy|413/413
+|-damage|p1a: Ho-Oh|362/413|[from] Stealth Rock
+|
+|-heal|p2a: Garganacl|60/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|switch|p2a: Darkrai|Darkrai|84/100
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Darkrai
+|-damage|p2a: Darkrai|29/100
+|
+|upkeep
+|turn|38
+|
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|85/100
+|
+|upkeep
+|turn|39
+|
+|switch|p1a: Arceus|Arceus|223/443
+|-damage|p1a: Arceus|168/443|[from] Stealth Rock
+|switch|p2a: Darkrai|Darkrai|29/100
+|
+|-heal|p1a: Arceus|195/443|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|switch|p1a: Koraidon|Koraidon|341/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Darkrai|Dark Pulse|p1a: Koraidon
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|269/341
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|41
+|
+|switch|p2a: Garganacl|Garganacl, F|60/100
+|switch|p1a: Landorus|Landorus-Therian, M|103/379
+|-damage|p1a: Landorus|56/379|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garganacl|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Garganacl|66/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|move|p1a: Landorus|Stealth Rock|p2a: Garganacl
+|-sidestart|p2: random-ou|move: Stealth Rock
+|move|p2a: Garganacl|Stealth Rock||[still]
+|-fail|p2a: Garganacl
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Garganacl|72/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|move|p1a: Landorus|U-turn|p2a: Garganacl
+|-damage|p2a: Garganacl|57/100
+|
+|switch|p1a: Kingambit|Kingambit, F|53/403 brn|[from] U-turn
+|-damage|p1a: Kingambit|28/403 brn|[from] Stealth Rock
+|move|p2a: Garganacl|Salt Cure|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Garganacl|63/100|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Ho-Oh|Ho-Oh, tera:Fairy|413/413
+|-damage|p1a: Ho-Oh|362/413|[from] Stealth Rock
+|turn|44
+|
+|switch|p2a: Moltres|Moltres|85/100
+|move|p1a: Ho-Oh|Recover|p1a: Ho-Oh
+|-heal|p1a: Ho-Oh|413/413
+|
+|-weather|none
+|upkeep
+|turn|45
+|
+|switch|p1a: Kyogre|Kyogre|380/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Moltres|Flamethrower|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|358/401
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|46
+|
+|switch|p1a: Arceus|Arceus|195/443
+|-damage|p1a: Arceus|140/443|[from] Stealth Rock
+|switch|p2a: Dragonite|Dragonite, F, tera:Normal|48/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Arceus|167/443|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|move|p1a: Arceus|Shadow Claw|p2a: Dragonite
+|-immune|p2a: Dragonite
+|move|p2a: Dragonite|Ice Spinner|p1a: Arceus
+|-damage|p1a: Arceus|73/443
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Arceus|100/443|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|move|p2a: Dragonite|Extreme Speed|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|switch|p1a: Ho-Oh|Ho-Oh, tera:Fairy|413/413
+|-damage|p1a: Ho-Oh|362/413|[from] Stealth Rock
+|turn|49
+|
+|switch|p2a: Great Tusk|Great Tusk|53/100
+|move|p1a: Ho-Oh|Whirlwind|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|drag|p2a: Garganacl|Garganacl, F|63/100
+|-damage|p2a: Garganacl|50/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p2a: Garganacl|57/100|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|switch|p1a: Kyogre|Kyogre|358/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|switch|p2a: Great Tusk|Great Tusk|53/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|51
+|
+|switch|p1a: Koraidon|Koraidon|269/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Great Tusk|Rapid Spin|p1a: Koraidon
+|-damage|p1a: Koraidon|197/341
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: random-ou|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|52
+|
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Dragonite|Dragonite, F, tera:Normal|48/100
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|53
+|
+|switch|p1a: Kyogre|Kyogre|358/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Dragonite|Earthquake|p1a: Kyogre
+|-damage|p1a: Kyogre|238/401
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|54
+|
+|switch|p2a: Great Tusk|Great Tusk|53/100
+|move|p1a: Kyogre|Thunder|p2a: Great Tusk
+|-immune|p2a: Great Tusk
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|55
+|
+|move|p2a: Great Tusk|Headlong Rush|p1a: Kyogre
+|-damage|p1a: Kyogre|67/401
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|56
+|
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Dragonite|Dragonite, F, tera:Normal|48/100
+|switch|p1a: Landorus|Landorus-Therian, M|56/379
+|-damage|p1a: Landorus|9/379|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|57
+|
+|switch|p2a: Great Tusk|Great Tusk|53/100
+|move|p1a: Landorus|Earthquake|p2a: Great Tusk
+|-damage|p2a: Great Tusk|20/100
+|
+|-weather|none
+|upkeep
+|turn|58
+|
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Darkrai|Darkrai|29/100
+|move|p1a: Landorus|Rock Tomb|p2a: Darkrai
+|-damage|p2a: Darkrai|6/100
+|-unboost|p2a: Darkrai|spe|1
+|
+|upkeep
+|turn|59
+|
+|switch|p1a: Ho-Oh|Ho-Oh, tera:Fairy|413/413
+|-damage|p1a: Ho-Oh|362/413|[from] Stealth Rock
+|move|p2a: Darkrai|Sludge Bomb|p1a: Ho-Oh
+|-supereffective|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|216/413
+|
+|upkeep
+|turn|60
+|
+|switch|p2a: Dragonite|Dragonite, F, tera:Normal|48/100
+|move|p1a: Ho-Oh|Brave Bird|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-damage|p1a: Ho-Oh|166/413|[from] Recoil
+|
+|upkeep
+|
+|switch|p2a: Darkrai|Darkrai|6/100
+|turn|61
+|
+|move|p2a: Darkrai|Dark Pulse|p1a: Ho-Oh
+|-resisted|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|112/413
+|move|p1a: Ho-Oh|Whirlwind|p2a: Darkrai
+|drag|p2a: Moltres|Moltres|85/100
+|
+|upkeep
+|turn|62
+|
+|switch|p2a: Garganacl|Garganacl, F|57/100
+|move|p1a: Ho-Oh|Recover|p1a: Ho-Oh
+|-heal|p1a: Ho-Oh|319/413
+|
+|-heal|p2a: Garganacl|63/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|switch|p1a: Koraidon|Koraidon|197/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|switch|p2a: Moltres|Moltres|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|64
+|
+|switch|p1a: Ho-Oh|Ho-Oh, tera:Fairy|413/413
+|-damage|p1a: Ho-Oh|362/413|[from] Stealth Rock
+|move|p2a: Moltres|Roost|p2a: Moltres
+|-heal|p2a: Moltres|100/100
+|-singleturn|p2a: Moltres|move: Roost
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|65
+|
+|switch|p2a: Great Tusk|Great Tusk|20/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Ho-Oh|Recover|p1a: Ho-Oh
+|-heal|p1a: Ho-Oh|413/413
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|66
+|
+|move|p2a: Great Tusk|Knock Off|p1a: Ho-Oh
+|-resisted|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|377/413
+|move|p1a: Ho-Oh|Recover|p1a: Ho-Oh
+|-heal|p1a: Ho-Oh|413/413
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|67
+|
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Ho-Oh|Recover||[still]
+|-fail|p1a: Ho-Oh|heal
+|
+|-weather|none
+|upkeep
+|turn|68
+|
+|move|p2a: Moltres|Roost||[still]
+|-fail|p2a: Moltres|heal
+|move|p1a: Ho-Oh|Whirlwind|p2a: Moltres
+|drag|p2a: Garganacl|Garganacl, F|63/100
+|
+|-heal|p2a: Garganacl|69/100|[from] item: Leftovers
+|upkeep
+|turn|69
+|
+|move|p1a: Ho-Oh|Brave Bird|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|52/100
+|-damage|p1a: Ho-Oh|390/413|[from] Recoil
+|move|p2a: Garganacl|Salt Cure|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|353/413
+|-start|p1a: Ho-Oh|Salt Cure
+|
+|-heal|p2a: Garganacl|58/100|[from] item: Leftovers
+|-damage|p1a: Ho-Oh|302/413|[from] Salt Cure
+|upkeep
+|turn|70
+|
+|switch|p1a: Kyogre|Kyogre|67/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|switch|p2a: Moltres|Moltres|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|71
+|
+|move|p1a: Kyogre|Ice Beam|p2a: Moltres
+|-damage|p2a: Moltres|68/100
+|move|p2a: Moltres|Will-O-Wisp|p1a: Kyogre|[miss]
+|-miss|p2a: Moltres|p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|72
+|
+|move|p1a: Kyogre|Thunder|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|switch|p2a: Garganacl|Garganacl, F|58/100
+|turn|73
+|
+|switch|p1a: Landorus|Landorus-Therian, M|9/379
+|-damage|p1a: Landorus|0 fnt|[from] Stealth Rock
+|faint|p1a: Landorus
+|move|p2a: Garganacl|Stealth Rock||[still]
+|-fail|p2a: Garganacl
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garganacl|64/100|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Koraidon|Koraidon|197/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|74
+|
+|switch|p1a: Ho-Oh|Ho-Oh, tera:Fairy|413/413
+|-damage|p1a: Ho-Oh|362/413|[from] Stealth Rock
+|move|p2a: Garganacl|Protect||[still]
+|-fail|p2a: Garganacl
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Garganacl|71/100|[from] item: Leftovers
+|upkeep
+|turn|75
+|
+|move|p1a: Ho-Oh|Recover|p1a: Ho-Oh
+|-heal|p1a: Ho-Oh|413/413
+|move|p2a: Garganacl|Salt Cure|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|377/413
+|-start|p1a: Ho-Oh|Salt Cure
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Garganacl|77/100|[from] item: Leftovers
+|-damage|p1a: Ho-Oh|326/413|[from] Salt Cure
+|upkeep
+|turn|76
+|
+|switch|p2a: Darkrai|Darkrai|6/100
+|move|p1a: Ho-Oh|Brave Bird|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|-damage|p1a: Ho-Oh|321/413|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ho-Oh|270/413|[from] Salt Cure
+|upkeep
+|
+|switch|p2a: Garganacl|Garganacl, F|77/100
+|turn|77
+|
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Garganacl
+|-activate|p2a: Garganacl|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Garganacl|83/100|[from] item: Leftovers
+|-damage|p1a: Ho-Oh|219/413|[from] Salt Cure
+|upkeep
+|turn|78
+|
+|switch|p1a: Kyogre|Kyogre|67/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Garganacl|Stealth Rock||[still]
+|-fail|p2a: Garganacl
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garganacl|89/100|[from] item: Leftovers
+|upkeep
+|turn|79
+|
+|move|p2a: Garganacl|Protect|p2a: Garganacl
+|-singleturn|p2a: Garganacl|Protect
+|move|p1a: Kyogre|Calm Mind|p1a: Kyogre
+|-boost|p1a: Kyogre|spa|1
+|-boost|p1a: Kyogre|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garganacl|95/100|[from] item: Leftovers
+|upkeep
+|turn|80
+|
+|switch|p1a: Koraidon|Koraidon|197/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Garganacl|Salt Cure|p1a: Koraidon
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|178/341
+|-start|p1a: Koraidon|Salt Cure
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Garganacl|100/100|[from] item: Leftovers
+|-damage|p1a: Koraidon|136/341|[from] Salt Cure
+|upkeep
+|turn|81
+|
+|move|p1a: Koraidon|Low Kick|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|0 fnt
+|faint|p2a: Garganacl
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Koraidon|94/341|[from] Salt Cure
+|upkeep
+|
+|switch|p2a: Great Tusk|Great Tusk|20/100
+|-activate|p2a: Great Tusk|ability: Protosynthesis
+|-start|p2a: Great Tusk|protosynthesisatk
+|turn|82
+|
+|switch|p1a: Ho-Oh|Ho-Oh, tera:Fairy|356/413
+|-damage|p1a: Ho-Oh|305/413|[from] Stealth Rock
+|move|p2a: Great Tusk|Knock Off|p1a: Ho-Oh
+|-resisted|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|265/413
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|83
+|
+|move|p2a: Great Tusk|Rapid Spin|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|207/413
+|-boost|p2a: Great Tusk|spe|1
+|move|p1a: Ho-Oh|Whirlwind||[still]
+|-fail|p1a: Ho-Oh
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|84
+|
+|move|p2a: Great Tusk|Knock Off|p1a: Ho-Oh
+|-resisted|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|168/413
+|move|p1a: Ho-Oh|Whirlwind||[still]
+|-fail|p1a: Ho-Oh
+|
+|-weather|none
+|-end|p2a: Great Tusk|Protosynthesis
+|upkeep
+|turn|85
+|
+|move|p2a: Great Tusk|Knock Off|p1a: Ho-Oh
+|-resisted|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|136/413
+|move|p1a: Ho-Oh|Brave Bird|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: Ho-Oh|112/413|[from] Recoil
+|
+    </script>
+</div>
+
+<div class="battle-log battle-log-inline" style="display:none"></div>
+
+<script>
+    let daily = Math.floor(Date.now() / 1000 / 60 / 60 / 24); document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version' + daily + '"></' + 'script>');
+</script>
+
+<p style="text-align:center"> Replay created by <a href="https://github.com/hsahovic/poke-env">poke-env</a>, with code from <a
+        href="https://github.com/smogon/pokemon-showdown"> pokemon-showdown</a>. If something goes wrong, don't hesitate
+    to open an <a href="https://github.com/hsahovic/poke-env/issues">issue!</a></p>

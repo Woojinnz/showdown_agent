@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>battle-gen9ubers-6977</title>
+<style>
+    html,
+    body {
+        font-family: Verdana, sans-serif;
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        padding: 12px 0;
+    }
+
+    .battle-log {
+        font-family: Verdana, sans-serif;
+        font-size: 10pt;
+    }
+
+    .battle-log-inline {
+        border: 1px solid #AAAAAA;
+        background: #EEF2F5;
+        color: black;
+        max-width: 640px;
+        margin: 0 auto 80px;
+        padding-bottom: 5px;
+    }
+
+    .battle-log .inner {
+        padding: 4px 8px 0px 8px;
+    }
+
+    .battle-log .inner-preempt {
+        padding: 0 8px 4px 8px;
+    }
+
+    .battle-log .inner-after {
+        margin-top: 0.5em;
+    }
+
+    .battle-log h2 {
+        margin: 0.5em -8px;
+        padding: 4px 8px;
+        border: 1px solid #AAAAAA;
+        background: #E0E7EA;
+        border-left: 0;
+        border-right: 0;
+        font-family: Verdana, sans-serif;
+        font-size: 13pt;
+    }
+
+    .backprop {
+        top: 0;
+    }
+
+    .battle-log .chat {
+        vertical-align: middle;
+        padding: 3px 0 3px 0;
+        font-size: 8pt;
+    }
+
+    .battle-log .chat strong {
+        color: #40576A;
+    }
+
+    .battle-log .chat em {
+        padding: 1px 4px 1px 3px;
+        color: #000000;
+        font-style: normal;
+    }
+
+    .chat.mine {
+        background: rgba(0, 0, 0, 0.05);
+        margin-left: -8px;
+        margin-right: -8px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .spoiler {
+        color: #BBBBBB;
+        background: #BBBBBB;
+        padding: 0px 3px;
+    }
+
+    .spoiler:hover,
+    .spoiler:active,
+    .spoiler-shown {
+        color: #000000;
+        background: #E2E2E2;
+        padding: 0px 3px;
+    }
+
+    .spoiler a {
+        color: #BBBBBB;
+    }
+
+    .spoiler:hover a,
+    .spoiler:active a,
+    .spoiler-shown a {
+        color: #2288CC;
+    }
+
+    .chat code,
+    .chat .spoiler:hover code,
+    .chat .spoiler:active code,
+    .chat .spoiler-shown code {
+        border: 1px solid #C0C0C0;
+        background: #EEEEEE;
+        color: black;
+        padding: 0 2px;
+    }
+
+    .chat .spoiler code {
+        border: 1px solid #CCCCCC;
+        background: #CCCCCC;
+        color: #CCCCCC;
+    }
+
+    .battle-log .rated {
+        padding: 3px 4px;
+    }
+
+    .battle-log .rated strong {
+        color: white;
+        background: #89A;
+        padding: 1px 4px;
+        border-radius: 4px;
+    }
+
+    .spacer {
+        margin-top: 0.5em;
+    }
+
+    .message-announce {
+        background: #6688AA;
+        color: white;
+        padding: 1px 4px 2px;
+    }
+
+    .message-announce a,
+    .broadcast-green a,
+    .broadcast-blue a,
+    .broadcast-red a {
+        color: #DDEEFF;
+    }
+
+    .broadcast-green {
+        background-color: #559955;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .broadcast-blue {
+        background-color: #6688AA;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .infobox {
+        border: 1px solid #6688AA;
+        padding: 2px 4px;
+    }
+
+    .infobox-limited {
+        max-height: 200px;
+        overflow: auto;
+        overflow-x: hidden;
+    }
+
+    .broadcast-red {
+        background-color: #AA5544;
+        color: white;
+        padding: 2px 4px;
+    }
+
+    .message-learn-canlearn {
+        font-weight: bold;
+        color: #228822;
+        text-decoration: underline;
+    }
+
+    .message-learn-cannotlearn {
+        font-weight: bold;
+        color: #CC2222;
+        text-decoration: underline;
+    }
+
+    .message-effect-weak {
+        font-weight: bold;
+        color: #CC2222;
+    }
+
+    .message-effect-resist {
+        font-weight: bold;
+        color: #6688AA;
+    }
+
+    .message-effect-immune {
+        font-weight: bold;
+        color: #666666;
+    }
+
+    .message-learn-list {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .message-throttle-notice,
+    .message-error {
+        color: #992222;
+    }
+
+    .message-overflow,
+    .chat small.message-overflow {
+        font-size: 0pt;
+    }
+
+    .message-overflow::before {
+        font-size: 9pt;
+        content: '...';
+    }
+
+    .subtle {
+        color: #3A4A66;
+    }
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+    <input type="hidden" name="replayid" value="unregisteredserver-gen8randombattle-320064" />
+    <div class="battle"></div>
+    <div class="battle-log"></div>
+    <div class="replay-controls"></div>
+    <div class="replay-controls-2"></div>
+    <h1 style="font-weight:normal;text-align:center"><strong>poke-env battle replay</strong><br />battle-gen9ubers-6977<br /><a
+            href="http://pokemonshowdown.com/users/randomplayer1" class="subtle" target="_blank">wjeo779</a>
+        vs. <a href="http://pokemonshowdown.com/users/randomplayer2" class="subtle"
+            target="_blank">random-ru</a></h1>
+    <script type="text/plain" class="battle-log-data">
+    >battle-gen9ubers-6977|init|battle
+|title|wjeo779 vs. random-ru
+|j|☆wjeo779
+|j|☆random-ru
+|gametype|singles
+|player|p1|wjeo779|266|
+|player|p2|random-ru|102|
+|gen|9
+|tier|[Gen 9] Ubers
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ho-Oh|
+|poke|p1|Kyogre|
+|poke|p1|Koraidon|
+|poke|p1|Arceus|
+|poke|p1|Kingambit, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Krookodile, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Cyclizar, M|
+|poke|p2|Jirachi|
+|poke|p2|Zapdos-Galar|
+|teampreview
+|
+|teamsize|p1|6
+|teamsize|p2|6
+|start
+|switch|p1a: Kingambit|Kingambit, F|403/403
+|switch|p2a: Cyclizar|Cyclizar, M|100/100
+|-item|p1a: Kingambit|Air Balloon
+|turn|1
+|
+|-terastallize|p2a: Cyclizar|Poison
+|-terastallize|p1a: Kingambit|Fire
+|move|p1a: Kingambit|Sucker Punch|p2a: Cyclizar
+|-damage|p2a: Cyclizar|43/100
+|move|p2a: Cyclizar|Double-Edge|p1a: Kingambit
+|-damage|p1a: Kingambit|288/403
+|-enditem|p1a: Kingambit|Air Balloon
+|-damage|p2a: Cyclizar|31/100|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Arceus|Arceus|443/443
+|move|p2a: Cyclizar|Double-Edge|p1a: Arceus
+|-damage|p1a: Arceus|325/443
+|-damage|p2a: Cyclizar|20/100|[from] Recoil
+|
+|-heal|p1a: Arceus|352/443|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|switch|p1a: Koraidon|Koraidon|341/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Cyclizar|Rapid Spin|p1a: Koraidon
+|-damage|p1a: Koraidon|292/341
+|-boost|p2a: Cyclizar|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|switch|p1a: Kyogre|Kyogre|401/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|switch|p2a: Cyclizar|Cyclizar, M, tera:Poison|53/100
+|move|p1a: Kyogre|Origin Pulse|p2a: Cyclizar
+|-damage|p2a: Cyclizar|0 fnt
+|faint|p2a: Cyclizar
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|switch|p2a: Jirachi|Jirachi|100/100
+|turn|6
+|
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|switch|p1a: Arceus|Arceus|352/443
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Arceus|379/443|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|move|p2a: Rotom|Overheat|p1a: Arceus
+|-damage|p1a: Arceus|307/443
+|-unboost|p2a: Rotom|spa|2
+|move|p1a: Arceus|Shadow Claw|p2a: Rotom
+|-damage|p2a: Rotom|75/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Arceus|334/443|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|move|p2a: Rotom|Volt Switch|p1a: Ho-Oh
+|-supereffective|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|351/413
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100|[from] Volt Switch
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|switch|p1a: Koraidon|Koraidon|292/341
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Slowbro|Thunder Wave|p1a: Koraidon
+|-status|p1a: Koraidon|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|switch|p1a: Landorus|Landorus-Therian, M|379/379
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowbro|atk|1
+|move|p2a: Slowbro|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|263/379
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|switch|p1a: Koraidon|Koraidon|292/341 par
+|-activate|p1a: Koraidon|ability: Orichalcum Pulse
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|switch|p2a: Krookodile|Krookodile, F|100/100
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Koraidon|atk|1
+|cant|p1a: Koraidon|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|move|p2a: Zapdos|Brave Bird|p1a: Ho-Oh
+|-crit|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|169/413
+|-damage|p2a: Zapdos|75/100|[from] Recoil
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Zapdos
+|-damage|p2a: Zapdos|24/100
+|
+|upkeep
+|turn|15
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Ho-Oh|Sacred Fire|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|88/100
+|
+|upkeep
+|turn|16
+|
+|move|p2a: Slowbro|Scald|p1a: Ho-Oh
+|-supereffective|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|37/413
+|move|p1a: Ho-Oh|Whirlwind|p2a: Slowbro
+|drag|p2a: Krookodile|Krookodile, F|100/100
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Ho-Oh|atk|1
+|
+|upkeep
+|turn|17
+|
+|switch|p1a: Kingambit|Kingambit, F, tera:Fire|288/403
+|move|p2a: Krookodile|Earthquake|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|58/403
+|
+|upkeep
+|turn|18
+|
+|switch|p2a: Zapdos|Zapdos-Galar|24/100
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|turn|19
+|
+|switch|p2a: Rotom|Rotom-Heat|75/100
+|move|p1a: Kingambit|Iron Head|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|63/100
+|
+|upkeep
+|turn|20
+|
+|switch|p2a: Krookodile|Krookodile, F|100/100
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Koraidon|Koraidon|292/341 par
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|
+|move|p2a: Krookodile|Stealth Rock|p1a: Koraidon
+|-sidestart|p1: wjeo779|move: Stealth Rock
+|move|p1a: Koraidon|Outrage|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|faint|p2a: Krookodile
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p2a: Zapdos|Zapdos-Galar|24/100
+|turn|22
+|
+|move|p2a: Zapdos|Knock Off|p1a: Koraidon
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|247/341 par
+|-enditem|p1a: Koraidon|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Zapdos
+|move|p1a: Koraidon|Outrage|p2a: Zapdos|[from] lockedmove
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-start|p1a: Koraidon|confusion|[fatigue]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p2a: Rotom|Rotom-Heat|63/100
+|turn|23
+|
+|move|p2a: Rotom|Will-O-Wisp||[still]
+|-fail|p2a: Rotom
+|-activate|p1a: Koraidon|confusion
+|move|p1a: Koraidon|Outrage|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p2a: Jirachi|Jirachi|100/100
+|turn|24
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-activate|p1a: Koraidon|confusion
+|-damage|p1a: Koraidon|206/341 par|[from] confusion
+|
+|-weather|none
+|upkeep
+|turn|25
+|
+|-end|p1a: Koraidon|confusion
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|move|p2a: Slowbro|Future Sight|p1a: Koraidon
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|26
+|
+|switch|p1a: Arceus|Arceus|334/443
+|-damage|p1a: Arceus|279/443|[from] Stealth Rock
+|move|p2a: Slowbro|Future Sight||[still]
+|-fail|p2a: Slowbro
+|
+|-heal|p1a: Arceus|306/443|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|move|p1a: Arceus|Bulk Up|p1a: Arceus
+|-boost|p1a: Arceus|atk|1
+|-boost|p1a: Arceus|def|1
+|move|p2a: Slowbro|Scald|p1a: Arceus
+|-damage|p1a: Arceus|230/443
+|
+|-end|p1a: Arceus|move: Future Sight
+|-damage|p1a: Arceus|100/443
+|-heal|p1a: Arceus|127/443|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|move|p1a: Arceus|Taunt|p2a: Slowbro
+|-start|p2a: Slowbro|move: Taunt
+|move|p2a: Slowbro|Scald|p1a: Arceus
+|-damage|p1a: Arceus|48/443
+|-status|p1a: Arceus|brn
+|
+|-heal|p1a: Arceus|75/443 brn|[from] item: Leftovers
+|-damage|p1a: Arceus|48/443 brn|[from] brn
+|upkeep
+|turn|29
+|
+|switch|p1a: Ho-Oh|Ho-Oh|174/413
+|switch|p2a: Jirachi|Jirachi|100/100
+|
+|upkeep
+|turn|30
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|263/379
+|-damage|p1a: Landorus|216/379|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowbro|atk|1
+|
+|upkeep
+|turn|31
+|
+|move|p1a: Landorus|Rock Tomb|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|84/100
+|-unboost|p2a: Slowbro|spe|1
+|move|p2a: Slowbro|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|switch|p1a: Ho-Oh|Ho-Oh|311/413
+|turn|32
+|
+|switch|p1a: Koraidon|Koraidon|206/341 par
+|-damage|p1a: Koraidon|185/341 par|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Slowbro|Thunder Wave|p1a: Koraidon
+|-fail|p1a: Koraidon|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|33
+|
+|switch|p1a: Kingambit|Kingambit, F, tera:Fire|58/403
+|-damage|p1a: Kingambit|0 fnt|[from] Stealth Rock
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|move|p2a: Slowbro|Scald|p1: Kingambit|[notarget]
+|-fail|p2a: Slowbro
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p1a: Kyogre|Kyogre|401/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|34
+|
+|switch|p2a: Jirachi|Jirachi|100/100
+|move|p1a: Kyogre|Ice Beam|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|85/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Jirachi|91/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|switch|p1a: Arceus|Arceus|48/443 brn
+|-damage|p1a: Arceus|0 fnt|[from] Stealth Rock
+|faint|p1a: Arceus
+|move|p2a: Jirachi|Psychic Noise|p1: Arceus|[notarget]
+|-fail|p2a: Jirachi
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Jirachi|97/100|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|turn|36
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|switch|p1a: Koraidon|Koraidon|185/341 par
+|-damage|p1a: Koraidon|164/341 par|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|37
+|
+|switch|p2a: Jirachi|Jirachi|97/100
+|cant|p1a: Koraidon|par
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Jirachi|100/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Koraidon|Low Kick|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|85/100
+|-damage|p1a: Koraidon|108/341 par|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|39
+|
+|cant|p1a: Koraidon|par
+|move|p2a: Slowbro|Scald|p1a: Koraidon
+|-resisted|p1a: Koraidon
+|-damage|p1a: Koraidon|86/341 par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|40
+|
+|move|p1a: Koraidon|Swords Dance|p1a: Koraidon
+|-boost|p1a: Koraidon|atk|2
+|move|p2a: Slowbro|Future Sight|p1a: Koraidon
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-weather|none
+|upkeep
+|turn|41
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413
+|move|p2a: Slowbro|Future Sight||[still]
+|-fail|p2a: Slowbro
+|
+|upkeep
+|turn|42
+|
+|move|p2a: Slowbro|Future Sight||[still]
+|-fail|p2a: Slowbro
+|move|p1a: Ho-Oh|Whirlwind|p2a: Slowbro
+|drag|p2a: Jirachi|Jirachi|100/100
+|
+|-end|p1a: Ho-Oh|move: Future Sight
+|-damage|p1a: Ho-Oh|323/413
+|upkeep
+|turn|43
+|
+|move|p2a: Jirachi|Thunderbolt|p1a: Ho-Oh
+|-supereffective|p1a: Ho-Oh
+|-crit|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|145/413
+|-status|p1a: Ho-Oh|par
+|cant|p1a: Ho-Oh|par
+|
+|upkeep
+|turn|44
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Ho-Oh|Recover|p1a: Ho-Oh
+|-heal|p1a: Ho-Oh|352/413 par
+|
+|upkeep
+|turn|45
+|
+|move|p2a: Slowbro|Future Sight|p1a: Ho-Oh
+|-start|p2a: Slowbro|move: Future Sight
+|move|p1a: Ho-Oh|Whirlwind|p2a: Slowbro
+|drag|p2a: Jirachi|Jirachi|100/100
+|
+|upkeep
+|turn|46
+|
+|move|p2a: Jirachi|Aura Sphere|p1a: Ho-Oh
+|-resisted|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|326/413 par
+|move|p1a: Ho-Oh|Brave Bird|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|74/100
+|-damage|p1a: Ho-Oh|295/413 par|[from] Recoil
+|
+|-heal|p2a: Jirachi|80/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|switch|p1a: Kyogre|Kyogre|401/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Jirachi|Aura Sphere|p1a: Kyogre
+|-damage|p1a: Kyogre|339/401
+|
+|-weather|RainDance|[upkeep]
+|-end|p1a: Kyogre|move: Future Sight
+|-damage|p1a: Kyogre|228/401
+|-heal|p2a: Jirachi|86/100|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Kyogre|Ice Beam|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|84/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|49
+|
+|switch|p1a: Koraidon|Koraidon|86/341 par
+|-damage|p1a: Koraidon|65/341 par|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|move|p2a: Slowbro|Thunder Wave|p1a: Koraidon
+|-fail|p1a: Koraidon|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|50
+|
+|switch|p1a: Kyogre|Kyogre|228/401
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Slowbro|Scald|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|178/401
+|-status|p1a: Kyogre|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyogre|153/401 brn|[from] brn
+|upkeep
+|turn|51
+|
+|move|p1a: Kyogre|Ice Beam|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|68/100
+|move|p2a: Slowbro|Scald|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|102/401 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyogre|77/401 brn|[from] brn
+|upkeep
+|turn|52
+|
+|move|p1a: Kyogre|Ice Beam|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|53/100
+|move|p2a: Slowbro|Thunder Wave||[still]
+|-fail|p2a: Slowbro
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Kyogre|52/401 brn|[from] brn
+|upkeep
+|turn|53
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413 par
+|switch|p2a: Jirachi|Jirachi|86/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Jirachi|93/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|move|p2a: Jirachi|Calm Mind|p2a: Jirachi
+|-boost|p2a: Jirachi|spa|1
+|-boost|p2a: Jirachi|spd|1
+|move|p1a: Ho-Oh|Whirlwind|p2a: Jirachi
+|drag|p2a: Slowbro|Slowbro, F|86/100
+|
+|-weather|none
+|upkeep
+|turn|55
+|
+|switch|p1a: Koraidon|Koraidon|65/341 par
+|-damage|p1a: Koraidon|44/341 par|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|switch|p2a: Jirachi|Jirachi|93/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Jirachi|99/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|switch|p1a: Kyogre|Kyogre|52/401 brn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|move|p2a: Jirachi|Thunderbolt|p1a: Kyogre
+|-supereffective|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Jirachi|100/100|[from] item: Leftovers
+|upkeep
+|
+|switch|p1a: Koraidon|Koraidon|44/341 par
+|-damage|p1a: Koraidon|23/341 par|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p1a: Koraidon
+|-activate|p1a: Koraidon|Orichalcum Pulse|[source]
+|turn|57
+|
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Koraidon|Outrage|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|29/100
+|-damage|p1a: Koraidon|0 fnt|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|faint|p1a: Koraidon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p1a: Ho-Oh|Ho-Oh|413/413 par
+|turn|58
+|
+|move|p1a: Ho-Oh|Brave Bird|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|-damage|p1a: Ho-Oh|345/413 par|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|faint|p2a: Slowbro
+|-damage|p1a: Ho-Oh|307/413 par|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p2a: Jirachi|Jirachi|100/100
+|turn|59
+|
+|move|p2a: Jirachi|Calm Mind|p2a: Jirachi
+|-boost|p2a: Jirachi|spa|1
+|-boost|p2a: Jirachi|spd|1
+|cant|p1a: Ho-Oh|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|60
+|
+|move|p2a: Jirachi|Psychic Noise|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|205/413 par
+|-start|p1a: Ho-Oh|move: Heal Block
+|cant|p1a: Ho-Oh|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|61
+|
+|move|p2a: Jirachi|Thunderbolt|p1a: Ho-Oh
+|-supereffective|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|13/413 par
+|move|p1a: Ho-Oh|Brave Bird|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|76/100
+|-damage|p1a: Ho-Oh|0 fnt|[from] Recoil
+|faint|p1a: Ho-Oh
+|
+    </script>
+</div>
+
+<div class="battle-log battle-log-inline" style="display:none"></div>
+
+<script>
+    let daily = Math.floor(Date.now() / 1000 / 60 / 60 / 24); document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version' + daily + '"></' + 'script>');
+</script>
+
+<p style="text-align:center"> Replay created by <a href="https://github.com/hsahovic/poke-env">poke-env</a>, with code from <a
+        href="https://github.com/smogon/pokemon-showdown"> pokemon-showdown</a>. If something goes wrong, don't hesitate
+    to open an <a href="https://github.com/hsahovic/poke-env/issues">issue!</a></p>
